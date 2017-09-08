@@ -1,0 +1,1799 @@
+ibuprofen	shorter-acting agent
+maize	unmalted cereal
+barley	unmalted cereal
+toy	content information
+name	content information
+address	content information
+vitamin	natural goodie
+smartphone	e reader device
+cotton	pigment
+maize	pigment
+turmeric	pigment
+age	salient attribute
+gold	therapeutic agent
+cat	therapeutic agent
+sage	therapeutic agent
+turmeric	therapeutic agent
+directory	meta information
+mobile phone	complex invention
+birthday	compound word
+grasshopper	compound word
+oil	unhealthy ingredient
+coal	high emission industry
+oil	high emission industry
+parsley	natural botanical extract
+rosemary	natural botanical extract
+oil	wives tale
+christmas	seasonal requirement
+phosphorus	dna
+magnesium	alternate product
+zinc	alternate product
+name	word answer
+age	consideration different factor
+tablet	dry preparation
+toy	special-purpose device
+smart phone	payment method
+mobile phone	payment method
+facebook	payment method
+gas	payment method
+filler	tablet excipients
+barley	combinable crop
+router	carpentry tool
+air	severe accident
+gender	varible
+age	varible
+cotton	everyday word
+air	resistance factor
+gender	patients demographic and clinical datum
+kidney	government hospital
+calcium	dietary micronutrient
+potassium	dietary micronutrient
+water	heavy particle
+future	risk management strategy
+option	risk management strategy
+water	commonwealth agency
+aspirin	supportive treatment
+oil	domestic waste
+silk	high-grade material
+cotton	high-grade material
+filing	human resource task
+cotton	textile industry
+tablet	expensive asset
+coal	venue operation
+doctor	custom page
+oil	estimate
+gas	estimate
+gender	in game option
+toy	shared item
+cotton	moisture wicking material
+lawyer	local advisor
+facebook	master
+economic	master
+accountant	master
+meditation	master
+il 6	maturation stimulus
+toy	raw material
+age	raw material
+hydrogen peroxide	raw material
+beetle	raw material
+cotton	shirt style
+tomato	heat tolerant plant
+bean	good eating habit
+router	default product type
+christmas	fern specie
+water	natural icon
+vitamin	nutrient rich superfood
+antioxidant	nutrient rich superfood
+name	instructor information
+gas	natural and man-made source
+antidepressant	medical substance
+surfactant	medical substance
+coal	mining mineral
+water	political and social problem
+tablet	ict solution
+oil	vestment
+tomato	garden species
+rice	buying food
+oil	natural pesticide
+water	natural pesticide
+thyme	gentle herb
+sage	gentle herb
+rosemary	gentle herb
+ginger	gentle herb
+water	suitable mean
+soybean	quality oil
+calcium	deoxidants
+filler	processing equipment
+british columbia	popular retirement destination
+silk	polysaccharide
+rice	polysaccharide
+water	polysaccharide
+mosquito	unpredictable element
+coal	conditioner
+birthday	memorial
+wedding	memorial
+wheat	common trigger food
+platinum	membership category
+name	academic
+chemotherapy	academic
+sociology	academic
+economic	academic
+bee	academic
+engineer	academic
+doctor	academic
+facebook	corporate
+orange	corporate
+gender	vital factor
+corticosteroid	underlying disease
+target	hidden cost
+villa	premium offering
+filler	non-invasive technology
+corn	traditional filler
+antibiotic	advancement
+wheat	hay
+potassium	deicing compound
+tomato	plant family
+gender	node datum
+age	node datum
+toy	precautionary measure
+wheat	arable farming
+maize	arable farming
+brain	crowd
+dog	shooting mode
+future	common contract
+water	infrastructure limitation
+vegetable	natural sugar source
+christmas	lot item
+anniversary	high risk situation
+toy	promotional material
+silk	ordinary material
+cotton	ordinary material
+cotton	friend
+cotton	sensitive plant
+silk	apron
+silk	fascinating character
+cotton	traffic
+cotton	cream
+cotton	polyploid crop
+cotton	herbaceous specie
+silk	exotic commodity
+cotton	storable commodity
+cotton	vegetable material
+silk	tape
+silk	natural and traditional material
+cotton	basic food stuff
+cotton	cereal
+cotton	damaging crop
+cotton	input material
+cotton	plant genome
+silk	tactile element
+cotton	agricultural residue
+cotton	tropical or subtropical plant
+cotton	edible seed
+cotton	fairtrade product
+cotton	woody-stemmed plant
+cotton	agro-industrial by-products
+silk	chinese innovation
+cotton	search query
+cotton	salt-tolerant plant
+cotton	plush material
+silk	amazing fabric
+cotton	biological material
+silk	moisturizing ingredient
+cotton	natural quality
+cotton	filter material
+cotton	non paper material
+cotton	polymer material
+cotton	africa s resource
+wedding	fabric
+silk	rare product
+cotton	conventional product
+silk	standard brand
+cotton	refreshing scent
+cotton	seasonal material
+cotton	preferred material
+silk	high fashion item
+cotton	modern item
+cotton	expensive goods
+cotton	angiosperm specie
+cotton	strategic sector
+cotton	agriculturally important plant
+silk	high value good
+silver	fabric
+silk	polyamide
+silk	natural fiber product
+cotton	natural fiber product
+cotton	drought resistant crop
+silk	good lubricant
+silk	restriction
+cotton	stable material
+cotton	consumer commodity
+cotton	local agricultural product
+cotton	clean lint free cloth
+cotton	local fabric
+cotton	non edible material
+silk	non washable material
+cotton	long duration crop
+cotton	biomass feedstocks
+silk	artsists
+silk	unusual scent
+silk	extracellular matrix component
+silk	luscious fiber
+cotton	tinder
+cotton	physical commodity
+silk	eastern import
+cotton	soft natural fiber
+silk	soft natural fiber
+silk	superior material
+silk	ingenious invention
+cotton	traditional agricultural export
+silk	simple object
+cotton	national product
+silk	textile dye
+cotton	hygiene
+cotton	chosen material
+silk	exotic
+cotton	waste product
+silk	local material
+cotton	local material
+cotton	production practice
+cotton	non-oil sector
+silk	specialty card
+silk	tourist item
+silk	natural and eco friendly material
+silk	dedicated tool
+silk	gown
+cotton	rain-fed crop
+silk	gift
+cotton	gift
+cotton	biological feedstock
+cotton	non-absorbable suture
+silk	famous brand
+cotton	injection material
+silk	popular fabric
+cotton	popular fabric
+cotton	stretchy material
+silk	conventional fabric
+cotton	conventional fabric
+silk	benign material
+cotton	textural material
+silk	embroidered fabric
+cotton	embroidered fabric
+cotton	delicate plant
+cotton	rooted crop
+cotton	business interest
+cotton	durable item
+cotton	local crop
+silk	biodegradable fabric
+silk	fabric component
+cotton	starchy product
+silk	specialist paper
+cotton	renewable raw material
+silk	wonderful texture
+silk	expensive import
+cotton	non leguminous crop
+cotton	woody plant
+silk	big brand
+silk	area rug
+cotton	synthetic fiber material
+cotton	crop area
+cotton	eco-friendly option
+silk	agro based and artisan based industry
+cotton	intermediate good
+cotton	household material
+cotton	salt-tolerant crop
+cotton	vintage material
+silk	thin layer
+cotton	renewable source
+silk	tie
+silk	susceptible cultivars
+silk	great bargain
+silk	chinese import
+cotton	agricultural export product
+cotton	natural insulation material
+silk	money maker
+cotton	insulation product
+cotton	bast fiber
+cotton	dicotyledonous species
+cotton	basic agricultural product
+cotton	convenient material
+cotton	light product
+silk	off-white color
+silk	tactile texture
+silk	erotic material
+silk	great ingredient
+cotton	high value export crop
+cotton	synthetic carpet
+cotton	unwanted item
+cotton	great
+cotton	intensive culture
+silk	repository
+silk	clean delicate item
+cotton	indeterminate specie
+cotton	tall plant
+cotton	perennial species
+cotton	american plant
+silk	non edible item
+cotton	non edible item
+cotton	resistant glove
+cotton	intensive industry
+cotton	perishable goods
+cotton	day-neutral plant
+cotton	vintage recycled fabric
+silk	vintage recycled fabric
+cotton	staple industry
+cotton	rapidly renewable resource
+cotton	warm climate
+cotton	sewing supply
+cotton	clean soft cloth
+cotton	tight weave
+iron	self-sustaining resource
+tablet	catholic publication
+router	basic factor
+kidney	chronic health hazard
+tablet	lte device
+water	physico chemical standard
+towel	textile good
+mobile phone	technological possibility
+steroid	low molecular weight organic substance
+toy	durable goods
+wedding	sticky situation
+age	sticky situation
+target	popular outlet
+wal mart	popular outlet
+accountant	business reason
+antibiotic	biopharmaceuticals
+dog	minute
+gender	infl uential factor
+age	infl uential factor
+nitrogen	nontoxic alternative
+water	nontoxic alternative
+toy	party supply
+vegetable	simple building block
+towel	household basic
+towel	business necessity
+barley	high-residue crop
+rice	high-residue crop
+sorghum	high-residue crop
+wedding	community social program
+target	national pharmacy chain
+rice	dish meal
+vegetable	dish meal
+water	sea issue
+air	sea issue
+water	carrier solution
+oil	central ministry
+meditation	media rich element
+smartphone	information platform
+tomato	in
+fruit	healthful alternative
+vegetable	healthful alternative
+age	news agency
+router	news agency
+rice	stapes
+toy	comforting item
+gas	test function
+barley	cool season plant
+gas	selecting option
+gender	specialist topic
+gas	life line
+water	case service
+lawyer	case service
+gas	case service
+christmas	seasonal variation
+aspirin	symbolic gift
+psychology	useless subject
+tomato	product offering
+toy	practical item
+toy	training aid
+toy	basic item
+toy	social custom
+toy	cooperation
+toy	interesting technique
+toy	quiet activity
+toy	valuable personal item
+toy	nice extra touch
+toy	environmental surface
+toy	small wooden item
+toy	embodiment
+toy	entertainment
+toy	diversional activity
+toy	single item
+toy	domestic item
+toy	simple item
+toy	free essential goods
+toy	matching accessory
+toy	scale item
+toy	holiday item
+toy	key category
+toy	interesting object
+toy	material gift
+toy	local craft
+toy	retailer
+toy	wholesale market
+toy	material benefit
+toy	dry good
+toy	modern item
+toy	gently-used item
+toy	great christmas gift idea
+toy	easy item
+toy	relic
+toy	high margin product
+toy	utensil
+toy	mass produced item
+toy	expression
+toy	classic gift
+toy	competitive area
+toy	low tech product
+toy	local store
+toy	buy supply
+toy	non-porous surface
+toy	cheap raw material
+toy	optional item
+toy	solid item
+toy	common household object
+toy	typical expense
+toy	souvenir item
+toy	light object
+toy	visitor
+toy	designer
+toy	discretionary retailer
+toy	educational and instructional material
+toy	big item
+toy	traditional object
+toy	travel accessory
+toy	big ticket item
+toy	touching surface
+toy	small design
+toy	derivative product
+toy	simple activity
+toy	decorative accessory
+toy	non-food product
+toy	free product
+toy	positive distraction
+toy	non-technical field
+toy	aspect of daily life
+toy	simple project
+toy	handmade craft
+toy	crucial information
+toy	long term expense
+toy	personal use item
+toy	household material
+toy	holiday favorite
+toy	electrical item
+toy	small job
+toy	functional topic
+toy	special
+toy	daily program
+toy	hunt
+toy	distracting item
+toy	door prize
+toy	day product
+toy	cultural item
+toy	permanent item
+toy	personal material
+toy	external object
+toy	apparatuses
+toy	plastic object
+toy	non-agricultural product
+toy	kid furniture
+toy	practical support
+toy	fragile item
+toy	family friendly feature
+toy	accomplishment
+toy	specialised area
+toy	curriculum material
+toy	training method
+toy	meaningful reward
+toy	key market sector
+toy	background object
+toy	white goods
+toy	shared surface
+toy	c item
+toy	non-cash gift
+toy	electric device
+toy	child's need
+toy	buying product
+toy	sharp or pointed object
+toy	bric-a-brac
+toy	household device
+toy	handcrafted product
+toy	decoration item
+toy	secondary item
+toy	traditional player
+toy	danger area
+toy	iitems
+toy	sub-sectors
+toy	prize donation
+nausea	biological and neurological process
+platinum	photocatalysts
+age	heritable trait
+fruit	heritable trait
+silver	opposite
+water	opposite
+antibiotic	everyday medication
+ibuprofen	everyday medication
+aspirin	everyday medication
+gas	high profile industry
+ginger	sulfur rich vegetable
+corn	coarse food
+rice	coarse food
+name	consideration criterion
+address	consideration criterion
+water	organic binder
+fruit	offer finger food
+basil	adding stuff
+rosemary	adding stuff
+tomato	quick cooking veggie
+doctor	bodily fluid
+oil	publicly available datum
+water	maintenance emergency
+gas	maintenance emergency
+age	child related issue
+wal mart	large commercial company
+mobile phone	allowance
+dog	allowance
+rice	allowance
+wal mart	corporate credit card
+water	fig
+name	friend
+name	button property
+address	payment related information
+name	signs
+name	optional provision
+name	product info
+address	informative datum
+address	advanced feature
+name	key value
+address	formal information
+name	fixed datum
+address	datum entry error
+address	instrumental purpose
+address	unrelated entity
+name	basic essential
+name	tell-tale sign
+name	printed datum
+address	printed datum
+address	institutional information
+address	implementation concept
+name	basic communication skill
+name	custom graphic
+name	datum member
+address	manufacturer information
+name	visible symbol
+name	medium information
+name	route datum
+name	linguistic term
+name	invisible item
+address	simple element
+name	surface information
+address	word information
+address	participant datum
+address	enquires
+address	system state information
+name	small issue
+name	limited characteristic
+address	customer account datum
+name	soil information
+name	process setting
+address	personal datum information
+name	proper information
+address	proper information
+address	extensive information
+address	follow up procedure
+address	nonpublic information
+name	best quality
+name	small defect
+address	accompanying datum
+name	design attribute
+name	japanese culture
+name	book information
+address	vocabulary
+name	registration change
+address	registration change
+name	linguistic entity
+name	vitals
+address	vitals
+name	call information
+name	email
+name	employee profile information
+address	employee profile information
+address	sub type
+address	error value
+name	search item
+name	contextual material
+name	environment information
+name	root
+address	recorder
+address	back up material
+name	differentiating factor
+name	key property
+name	type keyword
+name	textual attribute
+address	textual attribute
+address	aspect of personal life
+address	common task
+address	commercial information
+name	public domain information
+address	transaction
+name	optional service
+name	international player
+name	peripheral datum
+name	product s attribute
+name	valid contact information
+name	information point
+name	contemporary artist
+name	pen
+address	entry field
+name	vital customer information
+address	vital customer information
+address	members information
+name	subelements
+name	dvd information
+name	text-based datum
+address	expansion card
+name	pharmacy information
+address	pharmacy information
+address	convention
+name	change request
+address	change request
+name	registration question
+name	birth information
+name	burial information
+name	layer property
+address	literal
+address	advanced concept
+address	attribute name
+name	green car
+name	layout
+address	layout
+name	page information
+address	page information
+name	credit information
+name	standard identifier
+address	standard identifier
+address	automated tool
+address	simple clerical error
+name	company specific
+address	datum set
+address	facility attribute
+name	accuracy
+name	innovator
+name	breakout
+address	park information
+name	basic school information
+name	discrete measure
+address	job specific information
+name	product field
+name	customer specific datum
+address	simple error
+name	aspect of datum quality
+name	generic keyword
+name	simple project
+name	real world information
+address	real world information
+address	bus signal
+name	list element
+address	list element
+address	activity information
+address	extended information
+name	personal and business information
+address	personal and business information
+name	datum flow
+name	simple datum item
+address	simple datum item
+name	state specific information
+address	state specific information
+address	license information
+name	signage
+name	transfer information
+name	rich information
+address	rich information
+name	material attribute
+name	static parameter
+name	fileds
+name	table property
+name	vessel information
+name	aspect of the brand
+address	report
+name	interesting fact
+address	protease inhibitor
+address	location specific information
+address	hotel
+name	field property
+name	complaint
+name	elementary property
+name	verbal clue
+name	memory cue
+name	ingredients
+name	costly procedure
+name	medallion
+name	custom message
+name	theoretical knowledge
+name	ethnic marker
+name	universal object
+address	universal object
+address	customized datum
+name	county title
+name	chemistry topic
+name	interface
+name	routine check
+address	microformat
+name	fundamental attribute
+name	visual device
+name	blueprint
+name	good information
+address	good information
+address	local indicator
+address	rule
+name	status information
+address	status information
+address	subobjects
+address	intelligence information
+name	intelligence information
+name	music fundamental
+teacher	personal datum
+name	endless category
+name	brand asset
+address	database element
+address	informational sign
+name	lie
+name	weapon skill
+address	ssid
+name	technical expert
+address	contact particular
+name	sequence attribute
+name	top level domain name
+name	datum table
+address	datum table
+address	basic step
+name	intellectual property right
+name	practice information
+address	practice information
+name	chinese philosophy
+name	decorative design
+name	essential element
+name	non words
+address	master record
+name	human resource application
+name	print
+mobile phone	remote channel
+birthday	normal information
+wal mart	streaming service
+water	suitable binder
+gender	social hierarchy
+gender	syntactic information
+oil	herbal oil
+carrot	herbal oil
+pdas	human system
+chemotherapy	serious disease
+chemotherapy	influence
+chemotherapy	chronic condition
+chemotherapy	non invasive treatment
+chemotherapy	keyword
+chemotherapy	nonsurgical procedure
+chemotherapy	seed
+chemotherapy	offer
+chemotherapy	classical approach
+chemotherapy	evidence
+wheat	nutritive ingredient
+vitamin	nutritive ingredient
+target	advertisement
+tablet	solid mass
+water	urban structure
+gas	urban structure
+electricity	urban structure
+diuretic	inappropriate treatment
+doctor	trade title
+wheat	inert ingredient
+rice	inert ingredient
+oil	inert ingredient
+rosemary	hydrating element
+platinum	cool color
+option	common stock equivalent
+silver	desirable color
+wheat	traffic
+coal	traffic
+oil	traffic
+pdas	high-tech option
+option	corporate action
+oil	indicator light
+mobile phone	security breach
+ginger	good basic
+doctor	carer
+vegetable	product line
+fruit	product line
+coal	product line
+ibuprofen	salicylate
+oil	environmental application
+water	environmental application
+zinc	volatile substance
+target	neighborhood store
+nausea	anomalous behavior
+oil	monopoly
+target	witness trim
+antibiotic	host defense
+gold	area attraction
+cabbage	cream
+antibiotic	cream
+ibuprofen	cream
+steroid	cream
+lemon	cream
+economic	cost measure
+ibuprofen	common pain killer
+electricity	housing related cost
+gas	housing related cost
+wheat	economically valuable specie
+rice	economically valuable specie
+corn	food can
+bean	food can
+pdas	small form factor computer
+mobile phone	modern technology tool
+silver	combo
+basil	healthy seasoning
+oil	norm
+age	norm
+economic	norm
+water	purpose vehicle
+cotton	covering material
+wheat	reason food
+gender	aspect of water management
+wheat	raw material price
+gender	otherfactors
+antibiotic	otherfactors
+accountant	female professional
+wal mart	destination store
+kidney	physical impairment
+economic	multi stakeholder forum
+gas	non-renewables
+lemon	minor tributary
+christmas	social engagement
+cinnamon	wacky flavor
+brain	neuromuscular disorder
+gender	social risk
+gas	conventional energy resource
+water	conventional energy resource
+water	ongoing contract
+electricity	ongoing contract
+gas	ongoing contract
+coal	large corporation
+brain	research opportunity
+wheat	paper
+gold	paper
+cat	paper
+oil	paper
+bee	paper
+psychology	physical science
+water	gadget
+antioxidant	ancillary ingredient
+dye	ancillary ingredient
+lubricant	ancillary ingredient
+british columbia	renowned physician
+spinach	herbaceous specie
+water	herbaceous specie
+filing	job requirement
+directory	advertising material
+brain	form of blindness
+sage	software provider
+age	customer record
+towel	janitorial product
+facebook	organisations
+fruit	naturally sweet fruit
+christmas	monthly club
+lemon	antibacterial ingredient
+clove	antibacterial ingredient
+facebook	large employer
+aspirin	valuable drug
+antibiotic	valuable drug
+tetracycline	photosensitive medication
+gender	relative issue
+water	complex constraint
+water	annual datum
+water	key supply
+mobile phone	modern technological advancement
+vegetable	blender
+zinc	adding reactive element
+magnesium	adding reactive element
+calcium	adding reactive element
+target	big name franchise
+gender	upstream factor
+economic	upstream factor
+oil	energy intensive company
+tablet	emergency contraception
+corn	daily chore
+rice	f. item
+gender	generic question
+coal	prominent sector
+oil	prominent sector
+oil	multi-component system
+doctor	professional society
+engineer	professional society
+teacher	professional society
+aspirin	non-prescription item
+water	mechanical procedure
+cinnamon	spiced tea
+ginger	spiced tea
+oil	natural fat source
+engineer	crew position
+sage	successful local company
+air	impact wrench
+economic	social shift
+vegetable	low glycaemic index carbohydrate
+fruit	low glycaemic index carbohydrate
+temperature	fault
+temperature	traditional measure
+temperature	kind of information
+temperature	keyword
+temperature	safety measure
+temperature	manifestation
+temperature	peripheral device
+temperature	molecular technique
+age	ancillary factor
+wheat	economic burden
+corn	economic burden
+rice	economic burden
+soybean	economic burden
+ginger	sorbet
+orange	regional player
+gas	microbial process
+lung	functional imaging
+tomato	closely related organism
+corticosteroid	scientific advance
+meditation	topic s
+kidney	plant-based protein source
+fruit	plant-based protein source
+vegetable	plant-based protein source
+erythromycin	prophylactic drug
+iron	prophylactic drug
+lawyer	prominent citizen
+vitamin	synergistic factor
+fruit	allah s creature
+target	influence
+rice	influence
+corticosteroid	influence
+nausea	influence
+facebook	technology provider
+teacher	technology provider
+electricity	public utility project
+gas	gastrointestinal condition
+hydrogen peroxide	acidic solution
+erythromycin	well-known drug
+aspirin	well-known drug
+gender	contextual feature
+age	contextual feature
+tomato	bird choice
+corn	bird choice
+gas	fuel supply
+aspirin	well known medication
+corticosteroid	well known medication
+beta blocker	well known medication
+antihistamine	well known medication
+water	sustainable theme
+water	complimentary offer
+psychology	useless job
+teacher	useless job
+anniversary	photography service
+gas	state owned company
+water	coordinative solvent
+mobile phone	video
+facebook	video
+meditation	video
+gender	yoga position
+birthday	house party
+wedding	house party
+water	molecular weight specie
+facebook	advanced feature
+zinc	natural mineral ingredient
+magnesium	natural mineral ingredient
+age	practical disadvantage
+fruit	horticultural enterprise
+age	broad construct
+electricity	linear infrastructure project
+water	state enterprise
+gas	state enterprise
+doctor	professional provider
+accountant	professional provider
+nurse	professional provider
+age	broad consideration
+water	thinkable bacterial vaginosis home remedy
+turmeric	thinkable bacterial vaginosis home remedy
+water	non porous item
+lemon	biennial and perennial herb
+gender	statistical analysis categorical variable
+mobile phone	human computer interface
+gender	considering various factor
+age	considering various factor
+broccoli	thigs
+dye	laundry article
+age	morphological attribute
+oil	high end project
+gas	high end project
+tablet	promotional item
+christmas	promotional item
+target	3rd party vendor
+brain	delicate food
+dog	npcs
+corn	frozen mixed vegetable
+anniversary	regular occasion
+wedding	regular occasion
+lemon	anti cancer food
+wheat	skin softening ingredient
+ginger	invasive weed
+water	fermented drink
+target	good practice
+teacher	good practice
+vegetable	frozen goods
+silver	electrical conductive material
+sociology	honor course
+nausea	stomach
+age	temporal pattern
+vitamin	home medical product
+oil	rich country
+water	rich country
+nurse	vital position
+water	homemade remedy
+cinnamon	homemade remedy
+birthday	simple question
+tomato	key food
+corn	key food
+bean	key food
+rice	key food
+cinnamon	key food
+teacher	standard role
+tomato	candidate specie
+oil	industrial accident
+age	student specific information
+surfactant	formulation factor
+wheat	utilitarian item
+smart phone	utilitarian item
+corn	utilitarian item
+oil	retail chain
+cauliflower	mushroom specie
+tablet	input peripheral
+nitrogen	water indicator
+phosphorus	water indicator
+social worker	licensed individual
+engineer	licensed individual
+accountant	licensed individual
+antihistamine	prescription treatment
+zinc	dietry supplement
+vegetable	great recipe
+oil	auxiliary building
+psychology	academic work
+wheat	avoiding inflammatory food
+wheat	traditional beer
+gender	single identifier
+rice	rbs
+oil	non perishable food
+water	non perishable food
+turmeric	organic color
+doctor	cohort
+pdas	hand-held item
+age	property factor
+oil	service point
+filler	service point
+oil	normal treatment
+clove	normal treatment
+ginger	normal treatment
+water	pure compound
+plasticizer	pure compound
+water	chemical medium
+age	key value
+wheat	reactive food
+corn	reactive food
+rice	sensitive food product
+teacher	classroom condition
+iron	standard hotel amenity
+lawyer	zealand business
+oil	basic medium type
+iron	comfortable and modern facility
+wal mart	growing company
+water	aspect of the work environment
+mobile phone	pairing
+ginger	pairing
+cumin	pairing
+tetracycline	systemic therapy
+maize	marginal crop
+corn	marginal crop
+basil	calmative herb
+gold	basic item
+silver	basic item
+hydrogen peroxide	basic item
+water	cultural technique
+vegetable	health risk
+rice	commodity supplier
+bean	commodity supplier
+oil	commodity supplier
+filler	details
+economic	long term structural change
+grasshopper	wild insect
+bee	wild insect
+aspirin	exposure
+antibiotic	exposure
+oil	compelling reason
+water	noncombustible material
+corticosteroid	hormonal medication
+maize	determinate plant
+sorghum	determinate plant
+water	key environmental indicator
+age	physician-related factor
+fruit	vegetable waste
+ginger	herb herbal supplement
+clove	natural aromatic plant extract
+cumin	natural aromatic plant extract
+ginger	natural aromatic plant extract
+cinnamon	natural aromatic plant extract
+coal	bulk substrate
+water	filtration
+corticosteroid	emergency measure
+antihistamine	emergency measure
+antibiotic	hormonal disorder
+age	common circumstance
+bean	countable object
+water	low calorie mixer
+barley	winter annual
+rice	winter annual
+smartphone	costly item
+tablet	costly item
+directory	costly item
+ginger	gallbladder disorder
+iron	construction commodity
+teacher	neighborhood leader
+gas	gas medium
+mobile phone	off the shelf technology
+oil	basic food stuff
+yoga	program element
+target	traditional retail store
+water	public work function
+vegetable	production
+oil	production
+coal	production
+ant	production
+fruit	novelty shape
+filing	office managerial duty
+brain	cancer disease
+electricity	large energy user
+lubricant	potential pollutant
+water	housing condition
+bean	exercise device
+wal mart	large edi hub
+lawyer	social agent
+cotton	luxe material
+maize	second crop
+corn	second crop
+bean	second crop
+gas	intangible goods
+wheat	susceptible specie
+wheat	industrial crop
+wheat	critical market
+wheat	short day plant
+wheat	others plant
+wheat	statutory authority
+wheat	sulphur-containing food
+wheat	avoiding allergen
+wheat	gentle natural ingredient
+wheat	resistant plant
+wheat	homogenous product
+wheat	textured flower
+wheat	monocrops
+wheat	natural chemical
+wheat	angiosperm specie
+wheat	attention
+wheat	biomass feedstocks
+wheat	consumable goods
+wheat	derivative
+wheat	controlled product
+wheat	non woody plant
+wheat	rough food
+wheat	super foods
+wheat	flavored tortilla
+wheat	identical product
+wheat	key specie
+wheat	artificial ingredient
+wheat	national product
+wheat	impurity
+wheat	commonly problematic food
+wheat	waste product
+wheat	hard seed
+wheat	plant fall crop
+wheat	powdered form
+wheat	gold color
+wheat	tone
+wheat	grass species
+wheat	morphological process
+wheat	agriculture good
+wheat	ordinary crop
+wheat	common item
+wheat	plant biomass
+wheat	established crop
+wheat	plant-based protein
+wheat	import commodity
+wheat	agricultural activity
+wheat	bird food
+wheat	atmospheric condition
+wheat	external protein
+wheat	delicate plant
+wheat	expensive filler
+wheat	traditional activity
+wheat	tangible commodity
+wheat	medication
+wheat	baked goods
+wheat	biomass fuel
+wheat	seasonal good
+wheat	agricultural and food product
+wheat	vital resource
+wheat	plant matter
+wheat	problem food
+wheat	cooked item
+wheat	non-leguminous crop
+wheat	traditional cover
+wheat	protein food
+wheat	food culprit
+wheat	simple everyday material
+wheat	common seed
+wheat	shade
+wheat	liquid biofuels
+wheat	seed plant
+wheat	fuel type
+wheat	export commodity
+wheat	buffet option
+wheat	imported raw material
+wheat	natural alternative
+wheat	interspecific hybrid
+wheat	renewable agricultural product
+wheat	aroma
+wheat	input
+wheat	rule
+wheat	dry bulk cargo
+wheat	co product
+wheat	japanese beer
+wheat	aliment
+wheat	block
+wheat	angiosperm
+wheat	additive
+wheat	competing crop
+wheat	stable market
+wheat	seemingly healthy food
+wheat	short lived plant
+steroid	medicinally bioactive compound
+target	online outlet
+lubricant	conventional aid
+water	program address issue
+wedding	big new
+economic	transnational process
+orange	consumer brand
+wal mart	local pharmacy
+social worker	critical position
+doctor	critical position
+lubricant	retail merchandise
+vegetable	quick dish
+fruit	quick dish
+basil	medicinal and aromatic plant
+cumin	medicinal and aromatic plant
+antibiotic	anti bacterial agent
+gas	specialised service
+cinnamon	simple and natural ingredient
+kidney	soft target
+water	soft target
+social worker	family professional
+teacher	family professional
+air	home health product
+cotton	synthetic fabric
+mobile phone	basic safeguard
+ibuprofen	antioxidant drug
+wedding	lifecycle
+water	lifecycle
+accountant	parishioner
+teacher	parishioner
+lawyer	parishioner
+doctor	parishioner
+iron	natural building material
+vitamin	favourable condition
+doctor	playing game
+smart phone	electronic asset
+wal mart	national merchant
+aspirin	common household name
+silver	lipid based nanoparticle
+wal mart	well known giant
+vitamin	concomitant treatment
+vitamin	specialty ingredient
+barley	specialty ingredient
+oil	specialty ingredient
+colorant	specialty ingredient
+rice	simple sugar food
+water	optional product
+antioxidant	proton donor
+iron	artistic influence band
+future	risk management technique
+tomato	highvalue crop
+nurse	core user
+electricity	operational service
+anniversary	night
+christmas	night
+birthday	night
+electricity	night
+water	daily necessary
+water	non-magnetic material
+air	non-magnetic material
+brain	malignant tumor
+orange	air freshener
+grapefruit	air freshener
+lemon	air freshener
+filler	hot area
+fruit	food preservation method
+antibiotic	intracellular content
+target	dream client
+gender	basic difference
+towel	high quality linen
+water	custom location
+spinach	garden item
+cabbage	garden item
+router	communication infrastructure device
+maize	plant model system
+rice	plant model system
+corn	dietary indiscretion
+aspirin	zinc rich food
+ibuprofen	zinc rich food
+towel	fitness item
+yoga	professional group
+birthday	lovely gift
+fruit	lovely gift
+target	big box user
+wal mart	big box user
+fruit	corrugated packaging product
+vitamin	input material
+rice	input material
+corn	input material
+electricity	undergraduate and graduate course
+gender	simple fact
+tablet	vitamin preparation
+wedding	photography project
+pdas	wireless input device
+antihistamine	standard remedy
+water	soil degradation process
+smart phone	product donation
+tablet	product donation
+accountant	self-employed individual
+oil	saturated fat
+lubricant	tableting aid
+meditation	simple therapy
+gold	classic style
+oil	routine preventative maintenance
+gas	emerging trend
+age	entry requirement
+antibiotic	dermatologist
+tomato	mexican ingredient
+corn	mexican ingredient
+bean	crop rotation
+platinum	attractive alternative
+silver	attractive alternative
+corn	attractive alternative
+clove	indian herbal remedy
+ginger	indian herbal remedy
+turmeric	indian herbal remedy
+gas	waste byproduct
+age	wellestablished risk factor
+antihistamine	traditional medical treatment
+water	spicy food
+nausea	spicy food
+teacher	prominent intellectual
+fruit	small prey item
+soybean	short day plant
+age	unusual finding
+tomato	place tall plant
+corn	place tall plant
+nurse	professional resource
+accountant	professional resource
+silver	sexy color
+brain	self organizing system
+silver	national award
+electricity	production field
+teacher	transition
+nurse	transition
+oil	fat based product
+grapefruit	azole antifungal drug
+water	representative compound
+target	interactive game
+yoga	interactive game
+teacher	crucial witness
+age	great information
+filing	typical clerical duty
+teacher	feminine role
+brain	regular activity
+water	green asset
+birthday	party theme
+air	heat exchange medium
+gas	heat exchange medium
+age	corollary information
+water	exposure source
+age	light damage
+stabilizer	conventional inactive or inert ingredient
+wedding	photo assignment
+teacher	outside agent
+wedding	regular promotion
+doctor	experienced person
+social worker	experienced person
+engineer	experienced person
+ginger	biographer
+wal mart	participating store
+nitrogen	complex element
+nurse	allied health profession
+electricity	infrastructural component
+nausea	treatable condition
+age	executive s individual attribute
+facebook	metric
+pigment	inorganic and organic chemical
+dye	inorganic and organic chemical
+gas	high value resource
+fruit	drawing object
+brain	labor intensive social technology
+meditation	labor intensive social technology
+pdas	ubiquitous environment
+smart phone	ubiquitous environment
+economic	exeption
+gold	cathode
+silver	cathode
+oil	natural organic matter
+air	auxiliary component
+engineer	trained individual
+directory	printed datum
+bean	healthy vegetable fat
+corn	healthy vegetable fat
+stabilizer	chemical preparation
+christmas	family meeting
+coal	dirty job
+anniversary	surrounding event
+wedding	surrounding event
+age	unforeseen reason
+calcium	nutritional condition
+accountant	external support
+lawyer	external support
+tomato	tropical or subtropical plant
+maize	tropical or subtropical plant
+soybean	tropical or subtropical plant
+rice	tropical or subtropical plant
+teacher	positional leader
+alberta	prestigious ballet school
+water	statutory authority
+gas	statutory authority
+target	anatomic change
+age	ators
+dog	daily routine
+electricity	domestic expense
+dog	complex disease
+aspirin	non-prescription product
+ontario	network vendor
+oil	high technology sector
+vegetable	common sense practice
+anthropology	forensic scientist
+engineer	forensic scientist
+gas	hazardous sector
+water	indirect environmental effect
+orange	small county
+air	environmental destruction
+anniversary	transitional time
+birthday	transitional time
+corn	potential commodity
+sorghum	potential commodity
+gender	physiological heredity characteristic
+water	critical operation
+tetracycline	natural health product
+oil	natural health product
+pdas	portable electronic system
+nurse	active verb
+nitrogen	soft nucleophile
+phosphorus	soft nucleophile
+social worker	nonmedical personnel
+nurse	nonmedical personnel
+wal mart	traditional retail outlet
+lawyer	high level executive
+wal mart	retail centre
+ginger	blood thinner
+coal	private industry group
+fruit	delicious filling
+psychology	short answer
+soybean	edible seed
+barley	edible seed
+corn	edible seed
+iron	household surface
+st. jude children's research hospital	local and national organization
+hydrogen peroxide	home treatment
+rice	celebratory item
+wedding	fluff
+oil	environmental aspect
+gas	environmental aspect
+birthday	theme s
+wedding	theme s
+christmas	theme s
+rice	soaking grain
+gender	potential inhibitor
+meditation	introspective activity
+tablet	technological platform
+age	reference factor
+water	core infrastructure system
+router	basic communication skill
+gold	league
+brain	stony variety
+gas	ocean related industry
+deep breathing	behavioral skill
+lemon	all-natural ingredient
+orange	all-natural ingredient
+oil	homemade treatment
+calcium	mineral specie
+water	mechanical aid
+wal mart	big retail outlet
+orange	member company
+basil	strange creature
+nurse	strange creature
+option	trading cost
+coal	resource endowment
+lawyer	profesionals
+accountant	profesionals
+gas	method of sterilization
+vegetable	vegan staple
+water	unpleasant surprise
+electricity	operational contract
+carrot	shortcut
+lubricant	shortcut
+oil	ecological damage
+soybean	mono-unsaturated oil
+vegetable	mono-unsaturated oil
+water	civil engineering project
+antibiotic	long acting barbiturate
+antidepressant	long acting barbiturate
+cat	sketch
+rice	standard dish
+gas	roadside assistance
+antibiotic	biological factor
+anthropology	academic curriculum
+wedding	developmental milestone
+potassium	viability parameter
+steroid	western drug
+antibiotic	western drug
+gender	dialog box
+smart phone	latest tool
+water	aspect of civil engineering
+oil	complex project
+water	complex project
+towel	game accessory
+age	hedonic factor
+bean	modest meal
+coal	exhibit theme
+gas	large industry sector
+vegetable	degradable waste
+fruit	degradable waste
+rice	guest favorite
+oil	pressure group
+coal	food material
+oil	food material
+stabilizer	food material
+bean	fiber-rich variety
+aspirin	antifungal diet
+ibuprofen	antifungal diet
+wedding	mind event
+lemon	customers favorite
+facebook	built in service
+gold	art form
+wedding	celebration merchandise
+corn	agro residue
+spinach	signature pizza combination
+wedding	personal website
+spinach	dog friendly ingredient
+rosemary	gentle natural ingredient
+corn	everyday vegetable
+mosquito	nasty bug
+mobile phone	high-priced item
+water	24 hour service
+carrot	embodiment
+christmas	specialty fabric
+cotton	specialty fabric
+birthday	personal demographic datum
+brain	exceptional case
+dog	nonlethal weapon
+age	tip
+gender	software part
+gender	objective attribute
+gender	technical field
+age	simple item
+gender	cultural construct
+gender	user related information
+age	protein
+gender	cultural value
+age	cultural value
+gender	human property
+gender	cultural environment
+gender	liberal agenda
+gender	form of domination
+gender	visual characteristic
+gender	activist group
+age	scientific factor
+gender	top ics
+gender	biometric
+gender	background issue
+gender	account contextual factor
+gender	power relation
+age	traditional measure
+gender	pioneering program
+gender	motivation
+age	motivation
+gender	word character
+gender	character feature
+gender	sensitive attribute
+gender	social and economic aspect
+gender	person aspect
+gender	employee record
+gender	thematic subject
+gender	cultural theme
+gender	external measure
+gender	vitals
+age	serious problem
+age	methodological aspect
+age	aspect of life
+age	email
+gender	naturally issue
+gender	tourist attraction
+gender	employee trait
+gender	field heading
+gender	applicant datum
+gender	family issue
+gender	simple concept
+age	standard characteristic
+gender	seemingly unrelated topic
+gender	advanced instrument
+gender	deep issue
+gender	aggregate measure
+gender	work address issue
+gender	physical distinction
+gender	group dynamic
+gender	international issue
+gender	policy issue
+gender	simple feature
+gender	testament theme
+gender	cultural matter
+gender	exotic concept
+gender	non economic concern
+gender	non-economic variable
+age	essential component
+age	fun
+age	moment
+age	aggregate
+gender	sectoral union
+gender	irrelevant criterion
+gender	cultural dynamic
+gender	mitigating circumstance
+age	ethical consideration
+age	psycho logical factor
+gender	human theme
+gender	standpoint theorist
+gender	convention
+age	convention
+gender	real-world constraint
+gender	substantive area
+age	pigmentation change
+gender	theoretical category
+gender	linguistic element
+gender	sampling criterion
+gender	foundation
+gender	laser etched datum
+gender	conclusion many factor
+gender	critical theory
+gender	argument
+age	argument
+gender	linguistic issue
+gender	population group
+gender	school information
+gender	information type
+gender	touchy subject
+gender	power factor
+age	medication
+gender	fixed property
+gender	core dimension
+gender	traditional social category
+gender	area issue
+gender	first party datum
+age	complex concept
+gender	personal identification information
+gender	one factor
+gender	clinical and laboratory finding
+gender	cultural component
+gender	thematic sector
+gender	structural disadvantage
+gender	broad division
+gender	specialization
+gender	hard datum
+gender	sometimes issue
+age	report
+gender	ordinary matter
+gender	aesthetic
+gender	infant outcome
+gender	institutional discourse
+gender	studying factor
+age	herb
+age	building attribute
+gender	crucial area
+gender	macro level factor
+gender	global development issue
+gender	social theme
+gender	aspect of society
+gender	thematic initiative
+gender	cross-disciplinary topic
+gender	long standing issue
+gender	teachers personal characteristic
+gender	outcome
+gender	design factor
+age	design factor
+gender	development model
+age	legislation
+gender	birth related factor
+gender	heavy theme
+gender	modern idea
+gender	product attribute
+gender	matching factor
+gender	danger
+gender	utility
+gender	member datum
+gender	student issue
+age	social and psychological factor
+gender	custom
+gender	traveler information
+gender	minor way
+gender	personality variable
+age	mark
+gender	student difference
+gender	movement
+age	movement
+age	response
+age	essential element
+gender	evidence
+gender	heme
+gender	long term concern
+oil	geopolitical consideration
+ontario	university
+smartphone	great device
+water	regional agency
+clove	product code
+cinnamon	product code
+rice	healthy drink
+carrot	healthy drink
+ginger	healthy drink
+accountant	modern occupation
+water	mild product
+gas	motive fluid
+tablet	small project
+house renovation	small project
+home renovation	small project
+barley	green powder
+bean	water rich food
+parsley	popular species
+rosemary	popular species
+magnesium	lightweight high strength material
+gender	subject related factor
+engineer	transient worker
+oil	basic vehicle maintenance
+water	basic vehicle maintenance
+maize	tobacco
+water	degradation product
+vitamin	chronic trouble
+antibiotic	comprehensive tool
+target	established store
+vegetable	household application
+oil	visible symbol
+water	visible symbol
+option	key
+directory	key
+dye	monocyclic aromatic hydrocarbon
+tomato	biological stain
+iron	best grade raw material
+target	complex pattern
+thyme	evergreen groundcover
+option	interesting subject
+brain	controller
+silver	single item
+towel	pet care item
+water	speed control device
+mobile phone	surface
+tablet	surface
+protein	surface
+water	fluoride product
+sage	woody-stemmed plant
+thyme	woody-stemmed plant

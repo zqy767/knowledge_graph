@@ -1,11 +1,7 @@
-#!/usr/bin/python
-# coding=utf-8
+from datasketch import MinHash,MinHashLSH
 
-from simhash import simhash
-
-LINE = 50
 MAX_NUMBER = 1000
-MIN_NUMBER = 2
+MIN_NUMBER = 1
 
 def find_all_instances (filename,filter_list) :
     token = dict()
@@ -27,7 +23,7 @@ def find_all_instances (filename,filter_list) :
     print "read finished"
     return (token,frq)
 
-def find_interaction(fs,name1,name2,token1,token2,frq1,frq2) :
+def find_interaction(ans,fs,name1,name2,token1,token2,frq1,frq2) :
     set1 = set(token1)
     set2 = set(token2)
     dict1 = dict(zip(token1,frq1))
@@ -38,38 +34,49 @@ def find_interaction(fs,name1,name2,token1,token2,frq1,frq2) :
             res = element + '\t' + name1 + '\t' + str(dict1[element]) + '\t' + name2 + '\t' + str(dict2[element]) + '\n';
             fs.write(res)
             fs.flush()
-
+            result = "";
+            if (dict1[element] <= MIN_NUMBER) :
+                result = element + '\t' + name1 + '\n'
+            else :
+                result = element + '\t' + name2 + '\n'
+            if (result not in ans_set) :
+                ans_set.add(result)
+                ans.write(result)
+                ans.flush()
 
 filter_list = [];
+ans_set=set()
 for line in open("filter.txt") :
     filter_list.append(line.split("\t")[0]);
-
-
+filter_list = filter_list[0:70000];
+filter_set = set(filter_list)
 token = dict();
 frq = dict();
 (token,frq) = find_all_instances("data-concept-instance-relations.txt",filter_list);
 
 
-hash_data = [];
-simhash_output = open('simhash.txt','w');
-answer = open('answer.txt','w');
-inac = open("interaction.txt",'w')
+hash_data = dict();
+lsh = MinHashLSH(threshold=0);
+inac = open("minhash_interaction.txt",'w')
+ansfile = open("wrong_point.txt",'w')
 
+num = 0
 for name in filter_list :
-    sim = simhash(name,token[name],frq[name]);
-    hash_data.append(sim);
-    simhash_output.write(sim.name);
-    simhash_output.write("\t");
-    simhash_output.write(str(sim.hash));
-    simhash_output.write('\n');
+    if num % 1000 == 0 :
+        print num
+    num+=1
+    m = MinHash();
+    for d in token[name] :
+        m.update(d);
+    lsh.insert(name,m);
+    hash_data[name] = m;
 
 
-print len(hash_data)
-for i in range(0,len(hash_data)-1) :
-    if (i % 200 == 0) :
-	print i;
-    for j in (range(i+1,len(hash_data))) :
-        if (hash_data[i].hamming_distance(hash_data[j]) >= LINE) :
-              sent = hash_data[i].name + '\t' + hash_data[j].name + '\n';
-              answer.write(sent)
-              find_interaction(inac,hash_data[i].name,hash_data[j].name,token[hash_data[i].name], token[hash_data[j].name],frq[hash_data[i].name],frq[hash_data[j].name]);
+print "test started"
+n = 0
+for name in hash_data :
+    n+=1
+    if n % 200 == 0  :
+        print n
+    for i in filter_set - set(lsh.query(hash_data[name])) :
+        find_interaction(ansfile,inac,name,i,token[name],token[i],frq[name],frq[i])

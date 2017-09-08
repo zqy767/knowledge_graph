@@ -1,0 +1,2121 @@
+ibuprofen	shorter-acting agent	1	medication	1000
+maize	unmalted cereal	1	crop	2449
+barley	unmalted cereal	1	crop	1069
+toy	content information	1	small dog breed	1974
+name	content information	1	personal datum	1774
+address	content information	1	personal datum	1249
+vitamin	natural goodie	1	nutrient	1395
+smartphone	e reader device	1	mobile device	3700
+cotton	pigment	1	fabric	1046
+maize	pigment	1	crop	2449
+cotton	pigment	1	crop	1998
+turmeric	pigment	1	spice	1056
+age	salient attribute	1	demographic factor	2541
+age	salient attribute	1	demographic information	2433
+gold	therapeutic agent	1	noble metal	1116
+gold	therapeutic agent	1	preciou metal	2320
+cat	therapeutic agent	1	pet	1939
+sage	therapeutic agent	1	herb	1110
+turmeric	therapeutic agent	1	spice	1056
+directory	meta information	1	secondary source	1148
+mobile phone	complex invention	1	mobile device	1009
+birthday	compound word	1	occasion	2879
+grasshopper	compound word	1	insect	1042
+oil	unhealthy ingredient	1	fossil fuel	2811
+coal	high emission industry	1	fossil fuel	3813
+oil	high emission industry	1	fossil fuel	2811
+parsley	natural botanical extract	1	herb	1435
+rosemary	natural botanical extract	1	herb	1974
+oil	wives tale	1	fossil fuel	2811
+christmas	seasonal requirement	1	occasion	1053
+phosphorus	dna	1	nutrient	2326
+magnesium	alternate product	1	nutrient	1211
+zinc	alternate product	1	nutrient	1126
+name	word answer	1	personal datum	1774
+age	consideration different factor	1	demographic factor	2541
+age	consideration different factor	1	demographic information	2433
+tablet	dry preparation	1	mobile device	2895
+toy	special-purpose device	1	small dog breed	1974
+smart phone	payment method	1	mobile device	1894
+mobile phone	payment method	1	mobile device	1009
+facebook	payment method	1	social medium outlet	1024
+gas	payment method	1	utility	1596
+filler	tablet excipients	1	additive	1892
+barley	combinable crop	1	crop	1069
+router	carpentry tool	1	network device	1163
+air	severe accident	1	fluid	1128
+gender	varible	1	demographic factor	1507
+age	varible	1	demographic factor	2541
+gender	varible	1	demographic information	1785
+age	varible	1	demographic information	2433
+cotton	everyday word	1	fabric	1046
+cotton	everyday word	1	crop	1998
+air	resistance factor	1	fluid	1128
+gender	patients demographic and clinical datum	1	demographic factor	1507
+gender	patients demographic and clinical datum	1	demographic information	1785
+kidney	government hospital	1	organ	3011
+calcium	dietary micronutrient	1	nutrient	1618
+potassium	dietary micronutrient	1	nutrient	1359
+water	heavy particle	1	utility	2502
+future	risk management strategy	1	derivative	1164
+option	risk management strategy	1	derivative	1161
+water	commonwealth agency	1	fluid	2506
+water	commonwealth agency	1	utility	2502
+aspirin	supportive treatment	1	medication	1998
+oil	domestic waste	1	fossil fuel	2811
+silk	high-grade material	1	fabric	1076
+cotton	high-grade material	1	fabric	1046
+cotton	high-grade material	1	crop	1998
+filing	human resource task	1	clerical duty	1708
+cotton	textile industry	1	fabric	1046
+cotton	textile industry	1	crop	1998
+tablet	expensive asset	1	mobile device	2895
+coal	venue operation	1	fossil fuel	3813
+doctor	custom page	1	professional	3334
+oil	estimate	1	fossil fuel	2811
+gas	estimate	1	utility	1596
+gender	in game option	1	demographic characteristic	1337
+gender	in game option	1	demographic factor	1507
+gender	in game option	1	demographic information	1785
+toy	shared item	1	small dog breed	1974
+cotton	moisture wicking material	1	fabric	1046
+cotton	moisture wicking material	1	crop	1998
+lawyer	local advisor	1	professional	2857
+facebook	master	1	social medium outlet	1024
+economic	master	1	discipline	1193
+accountant	master	1	professional	1868
+meditation	master	1	relaxation technique	2166
+il 6	maturation stimulus	1	cytokine	1678
+toy	raw material	1	small dog breed	1974
+age	raw material	1	demographic characteristic	2579
+age	raw material	1	demographic	1573
+hydrogen peroxide	raw material	1	reactive oxygen specie	1677
+age	raw material	1	demographic factor	2541
+age	raw material	1	demographic information	2433
+beetle	raw material	1	insect	1143
+cotton	shirt style	1	fabric	1046
+cotton	shirt style	1	crop	1998
+tomato	heat tolerant plant	1	crop	1562
+bean	good eating habit	1	crop	1213
+router	default product type	1	network device	1163
+christmas	fern specie	1	occasion	1053
+water	natural icon	1	fluid	2506
+water	natural icon	1	utility	2502
+vitamin	nutrient rich superfood	1	nutrient	1395
+antioxidant	nutrient rich superfood	1	additive	3084
+name	instructor information	1	personal datum	1774
+gas	natural and man-made source	1	utility	1596
+antidepressant	medical substance	1	medication	2028
+surfactant	medical substance	1	additive	1793
+coal	mining mineral	1	fossil fuel	3813
+water	political and social problem	1	fluid	2506
+water	political and social problem	1	utility	2502
+tablet	ict solution	1	mobile device	2895
+oil	vestment	1	fossil fuel	2811
+tomato	garden species	1	crop	1562
+rice	buying food	1	crop	2171
+oil	natural pesticide	1	fossil fuel	2811
+water	natural pesticide	1	fluid	2506
+water	natural pesticide	1	utility	2502
+thyme	gentle herb	1	herb	1828
+sage	gentle herb	1	herb	1110
+rosemary	gentle herb	1	herb	1974
+ginger	gentle herb	1	spice	1528
+water	suitable mean	1	fluid	2506
+soybean	quality oil	1	crop	1589
+calcium	deoxidants	1	nutrient	1618
+filler	processing equipment	1	additive	1892
+british columbia	popular retirement destination	1	province	1063
+silk	polysaccharide	1	fabric	1076
+rice	polysaccharide	1	crop	2171
+water	polysaccharide	1	utility	2502
+mosquito	unpredictable element	1	insect	1469
+coal	conditioner	1	fossil fuel	3813
+birthday	memorial	1	occasion	2879
+wedding	memorial	1	occasion	3480
+wheat	common trigger food	1	cereal	1349
+wheat	common trigger food	1	crop	3132
+platinum	membership category	1	preciou metal	1172
+name	academic	1	personal datum	1774
+chemotherapy	academic	1	cancer treatment	1101
+sociology	academic	1	discipline	1636
+economic	academic	1	discipline	1193
+bee	academic	1	insect	1441
+engineer	academic	1	professional	1186
+doctor	academic	1	professional	3334
+facebook	corporate	1	social medium outlet	1024
+orange	corporate	1	citrus fruit	2164
+gender	vital factor	1	demographic characteristic	1337
+gender	vital factor	1	demographic factor	1507
+gender	vital factor	1	demographic information	1785
+corticosteroid	underlying disease	1	medication	1094
+target	hidden cost	1	retailer	1285
+villa	premium offering	1	accommodation choice	1349
+filler	non-invasive technology	1	additive	1892
+corn	traditional filler	1	crop	3243
+antibiotic	advancement	1	medication	1777
+wheat	hay	1	cereal	1349
+potassium	deicing compound	1	nutrient	1359
+tomato	plant family	1	crop	1562
+gender	node datum	1	demographic characteristic	1337
+age	node datum	1	demographic characteristic	2579
+age	node datum	1	demographic	1573
+gender	node datum	1	demographic factor	1507
+age	node datum	1	demographic factor	2541
+gender	node datum	1	demographic information	1785
+age	node datum	1	demographic information	2433
+toy	precautionary measure	1	small dog breed	1974
+wheat	arable farming	1	cereal	1349
+maize	arable farming	1	crop	2449
+wheat	arable farming	1	crop	3132
+brain	crowd	1	organ	1692
+dog	shooting mode	1	domestic animal	1039
+future	common contract	1	derivative	1164
+water	infrastructure limitation	1	fluid	2506
+water	infrastructure limitation	1	utility	2502
+vegetable	natural sugar source	1	healthy food	1647
+christmas	lot item	1	occasion	1053
+anniversary	high risk situation	1	occasion	1274
+toy	promotional material	1	small dog breed	1974
+silk	ordinary material	1	fabric	1076
+cotton	ordinary material	1	fabric	1046
+cotton	ordinary material	1	crop	1998
+cotton	fabric	1046	pigment	1
+cotton	fabric	1046	everyday word	1
+cotton	fabric	1046	textile industry	1
+cotton	fabric	1046	moisture wicking material	1
+cotton	fabric	1046	shirt style	1
+cotton	fabric	1046	friend	1
+cotton	fabric	1046	sensitive plant	1
+silk	fabric	1076	polysaccharide	1
+silk	fabric	1076	ordinary material	1
+cotton	fabric	1046	ordinary material	1
+silk	fabric	1076	apron	1
+silk	fabric	1076	fascinating character	1
+cotton	fabric	1046	traffic	1
+cotton	fabric	1046	cream	1
+cotton	fabric	1046	polyploid crop	1
+cotton	fabric	1046	herbaceous specie	1
+silk	fabric	1076	exotic commodity	1
+cotton	fabric	1046	storable commodity	1
+cotton	fabric	1046	vegetable material	1
+silk	fabric	1076	tape	1
+silk	fabric	1076	natural and traditional material	1
+cotton	fabric	1046	basic food stuff	1
+cotton	fabric	1046	cereal	1
+cotton	fabric	1046	damaging crop	1
+cotton	fabric	1046	input material	1
+cotton	fabric	1046	plant genome	1
+silk	fabric	1076	tactile element	1
+cotton	fabric	1046	agricultural residue	1
+cotton	fabric	1046	tropical or subtropical plant	1
+cotton	fabric	1046	edible seed	1
+cotton	fabric	1046	fairtrade product	1
+cotton	fabric	1046	woody-stemmed plant	1
+cotton	fabric	1046	agro-industrial by-products	1
+silk	fabric	1076	chinese innovation	1
+cotton	fabric	1046	search query	1
+cotton	fabric	1046	salt-tolerant plant	1
+cotton	fabric	1046	plush material	1
+silk	fabric	1076	amazing fabric	1
+cotton	fabric	1046	biological material	1
+silk	fabric	1076	moisturizing ingredient	1
+cotton	fabric	1046	natural quality	1
+cotton	fabric	1046	filter material	1
+cotton	fabric	1046	non paper material	1
+cotton	fabric	1046	polymer material	1
+cotton	fabric	1046	africa s resource	1
+wedding	fabric	1	occasion	3480
+silk	fabric	1076	rare product	1
+cotton	fabric	1046	conventional product	1
+silk	fabric	1076	standard brand	1
+cotton	fabric	1046	refreshing scent	1
+cotton	fabric	1046	seasonal material	1
+cotton	fabric	1046	preferred material	1
+silk	fabric	1076	high fashion item	1
+cotton	fabric	1046	modern item	1
+cotton	fabric	1046	expensive goods	1
+cotton	fabric	1046	angiosperm specie	1
+cotton	fabric	1046	strategic sector	1
+cotton	fabric	1046	agriculturally important plant	1
+silk	fabric	1076	high value good	1
+silver	fabric	1	preciou metal	1448
+silk	fabric	1076	polyamide	1
+silk	fabric	1076	natural fiber product	1
+cotton	fabric	1046	natural fiber product	1
+cotton	fabric	1046	drought resistant crop	1
+silk	fabric	1076	good lubricant	1
+silk	fabric	1076	restriction	1
+cotton	fabric	1046	stable material	1
+cotton	fabric	1046	consumer commodity	1
+cotton	fabric	1046	local agricultural product	1
+cotton	fabric	1046	clean lint free cloth	1
+cotton	fabric	1046	local fabric	1
+cotton	fabric	1046	non edible material	1
+silk	fabric	1076	non washable material	1
+cotton	fabric	1046	long duration crop	1
+cotton	fabric	1046	biomass feedstocks	1
+silk	fabric	1076	artsists	1
+silk	fabric	1076	unusual scent	1
+silk	fabric	1076	extracellular matrix component	1
+silk	fabric	1076	luscious fiber	1
+cotton	fabric	1046	tinder	1
+cotton	fabric	1046	physical commodity	1
+silk	fabric	1076	eastern import	1
+silk	fabric	1076	high-grade material	1
+cotton	fabric	1046	high-grade material	1
+cotton	fabric	1046	soft natural fiber	1
+silk	fabric	1076	soft natural fiber	1
+silk	fabric	1076	superior material	1
+silk	fabric	1076	ingenious invention	1
+cotton	fabric	1046	traditional agricultural export	1
+silk	fabric	1076	simple object	1
+cotton	fabric	1046	national product	1
+silk	fabric	1076	textile dye	1
+cotton	fabric	1046	hygiene	1
+cotton	fabric	1046	chosen material	1
+silk	fabric	1076	exotic	1
+cotton	fabric	1046	waste product	1
+silk	fabric	1076	local material	1
+cotton	fabric	1046	local material	1
+cotton	fabric	1046	production practice	1
+cotton	fabric	1046	non-oil sector	1
+silk	fabric	1076	specialty card	1
+silk	fabric	1076	tourist item	1
+silk	fabric	1076	natural and eco friendly material	1
+silk	fabric	1076	dedicated tool	1
+silk	fabric	1076	gown	1
+cotton	fabric	1046	rain-fed crop	1
+silk	fabric	1076	gift	1
+cotton	fabric	1046	gift	1
+cotton	fabric	1046	biological feedstock	1
+cotton	fabric	1046	non-absorbable suture	1
+silk	fabric	1076	famous brand	1
+cotton	fabric	1046	injection material	1
+silk	fabric	1076	popular fabric	1
+cotton	fabric	1046	popular fabric	1
+cotton	fabric	1046	stretchy material	1
+silk	fabric	1076	conventional fabric	1
+cotton	fabric	1046	conventional fabric	1
+silk	fabric	1076	benign material	1
+cotton	fabric	1046	textural material	1
+silk	fabric	1076	embroidered fabric	1
+cotton	fabric	1046	embroidered fabric	1
+cotton	fabric	1046	delicate plant	1
+cotton	fabric	1046	rooted crop	1
+cotton	fabric	1046	business interest	1
+cotton	fabric	1046	durable item	1
+cotton	fabric	1046	local crop	1
+silk	fabric	1076	biodegradable fabric	1
+silk	fabric	1076	fabric component	1
+cotton	fabric	1046	starchy product	1
+silk	fabric	1076	specialist paper	1
+cotton	fabric	1046	renewable raw material	1
+silk	fabric	1076	wonderful texture	1
+silk	fabric	1076	expensive import	1
+cotton	fabric	1046	non leguminous crop	1
+cotton	fabric	1046	woody plant	1
+silk	fabric	1076	big brand	1
+silk	fabric	1076	area rug	1
+cotton	fabric	1046	synthetic fiber material	1
+cotton	fabric	1046	crop area	1
+cotton	fabric	1046	eco-friendly option	1
+silk	fabric	1076	agro based and artisan based industry	1
+cotton	fabric	1046	intermediate good	1
+cotton	fabric	1046	household material	1
+cotton	fabric	1046	salt-tolerant crop	1
+cotton	fabric	1046	vintage material	1
+silk	fabric	1076	thin layer	1
+cotton	fabric	1046	renewable source	1
+silk	fabric	1076	tie	1
+silk	fabric	1076	susceptible cultivars	1
+silk	fabric	1076	great bargain	1
+silk	fabric	1076	chinese import	1
+cotton	fabric	1046	agricultural export product	1
+cotton	fabric	1046	natural insulation material	1
+silk	fabric	1076	money maker	1
+cotton	fabric	1046	insulation product	1
+cotton	fabric	1046	bast fiber	1
+cotton	fabric	1046	dicotyledonous species	1
+cotton	fabric	1046	basic agricultural product	1
+cotton	fabric	1046	convenient material	1
+cotton	fabric	1046	light product	1
+silk	fabric	1076	off-white color	1
+silk	fabric	1076	tactile texture	1
+silk	fabric	1076	erotic material	1
+silk	fabric	1076	great ingredient	1
+cotton	fabric	1046	high value export crop	1
+cotton	fabric	1046	synthetic carpet	1
+cotton	fabric	1046	unwanted item	1
+cotton	fabric	1046	great	1
+cotton	fabric	1046	intensive culture	1
+silk	fabric	1076	repository	1
+silk	fabric	1076	clean delicate item	1
+cotton	fabric	1046	indeterminate specie	1
+cotton	fabric	1046	tall plant	1
+cotton	fabric	1046	perennial species	1
+cotton	fabric	1046	american plant	1
+silk	fabric	1076	non edible item	1
+cotton	fabric	1046	non edible item	1
+cotton	fabric	1046	resistant glove	1
+cotton	fabric	1046	intensive industry	1
+cotton	fabric	1046	perishable goods	1
+cotton	fabric	1046	day-neutral plant	1
+cotton	fabric	1046	vintage recycled fabric	1
+silk	fabric	1076	vintage recycled fabric	1
+cotton	fabric	1046	staple industry	1
+cotton	fabric	1046	rapidly renewable resource	1
+cotton	fabric	1046	warm climate	1
+cotton	fabric	1046	sewing supply	1
+cotton	fabric	1046	clean soft cloth	1
+cotton	fabric	1046	tight weave	1
+iron	self-sustaining resource	1	nutrient	1390
+tablet	catholic publication	1	mobile device	2895
+router	basic factor	1	network device	1163
+kidney	chronic health hazard	1	organ	3011
+tablet	lte device	1	mobile device	2895
+water	physico chemical standard	1	fluid	2506
+water	physico chemical standard	1	utility	2502
+towel	textile good	1	personal item	1397
+mobile phone	technological possibility	1	mobile device	1009
+steroid	low molecular weight organic substance	1	medication	1291
+toy	durable goods	1	small dog breed	1974
+wedding	sticky situation	1	occasion	3480
+age	sticky situation	1	demographic factor	2541
+age	sticky situation	1	demographic information	2433
+target	popular outlet	1	retailer	1285
+wal mart	popular outlet	1	retailer	1317
+accountant	business reason	1	professional	1868
+antibiotic	biopharmaceuticals	1	medication	1777
+dog	minute	1	pet	2166
+dog	minute	1	domestic animal	1039
+gender	infl uential factor	1	demographic factor	1507
+age	infl uential factor	1	demographic factor	2541
+gender	infl uential factor	1	demographic information	1785
+age	infl uential factor	1	demographic information	2433
+nitrogen	nontoxic alternative	1	nutrient	3047
+water	nontoxic alternative	1	fluid	2506
+water	nontoxic alternative	1	utility	2502
+toy	party supply	1	small dog breed	1974
+vegetable	simple building block	1	healthy food	1647
+towel	household basic	1	personal item	1397
+towel	business necessity	1	personal item	1397
+barley	high-residue crop	1	crop	1069
+rice	high-residue crop	1	crop	2171
+sorghum	high-residue crop	1	crop	1066
+wedding	community social program	1	occasion	3480
+target	national pharmacy chain	1	retailer	1285
+rice	dish meal	1	crop	2171
+vegetable	dish meal	1	healthy food	1647
+water	sea issue	1	fluid	2506
+air	sea issue	1	fluid	1128
+water	sea issue	1	utility	2502
+water	carrier solution	1	fluid	2506
+water	carrier solution	1	utility	2502
+oil	central ministry	1	fossil fuel	2811
+meditation	media rich element	1	relaxation technique	2166
+smartphone	information platform	1	mobile device	3700
+tomato	in	1	crop	1562
+fruit	healthful alternative	1	healthy food	1069
+vegetable	healthful alternative	1	healthy food	1647
+age	news agency	1	demographic factor	2541
+age	news agency	1	demographic information	2433
+router	news agency	1	network device	1163
+rice	stapes	1	crop	2171
+toy	comforting item	1	small dog breed	1974
+gas	test function	1	utility	1596
+barley	cool season plant	1	crop	1069
+gas	selecting option	1	utility	1596
+silk	apron	1	fabric	1076
+gender	specialist topic	1	demographic characteristic	1337
+gender	specialist topic	1	demographic factor	1507
+gender	specialist topic	1	demographic information	1785
+gas	life line	1	utility	1596
+water	case service	1	fluid	2506
+lawyer	case service	1	professional	2857
+gas	case service	1	utility	1596
+water	case service	1	utility	2502
+christmas	seasonal variation	1	occasion	1053
+aspirin	symbolic gift	1	nsaid	1116
+aspirin	symbolic gift	1	medication	1998
+psychology	useless subject	1	discipline	1605
+tomato	product offering	1	crop	1562
+toy	small dog breed	1974	special-purpose device	1
+toy	small dog breed	1974	shared item	1
+toy	small dog breed	1974	raw material	1
+toy	small dog breed	1974	practical item	1
+toy	small dog breed	1974	precautionary measure	1
+toy	small dog breed	1974	promotional material	1
+toy	small dog breed	1974	durable goods	1
+toy	small dog breed	1974	party supply	1
+toy	small dog breed	1974	comforting item	1
+toy	small dog breed	1974	training aid	1
+toy	small dog breed	1974	basic item	1
+toy	small dog breed	1974	social custom	1
+toy	small dog breed	1974	cooperation	1
+toy	small dog breed	1974	interesting technique	1
+toy	small dog breed	1974	quiet activity	1
+toy	small dog breed	1974	valuable personal item	1
+toy	small dog breed	1974	nice extra touch	1
+toy	small dog breed	1974	environmental surface	1
+toy	small dog breed	1974	small wooden item	1
+toy	small dog breed	1974	embodiment	1
+toy	small dog breed	1974	entertainment	1
+toy	small dog breed	1974	diversional activity	1
+toy	small dog breed	1974	single item	1
+toy	small dog breed	1974	domestic item	1
+toy	small dog breed	1974	simple item	1
+toy	small dog breed	1974	free essential goods	1
+toy	small dog breed	1974	matching accessory	1
+toy	small dog breed	1974	scale item	1
+toy	small dog breed	1974	holiday item	1
+toy	small dog breed	1974	key category	1
+toy	small dog breed	1974	interesting object	1
+toy	small dog breed	1974	material gift	1
+toy	small dog breed	1974	local craft	1
+toy	small dog breed	1974	retailer	1
+toy	small dog breed	1974	wholesale market	1
+toy	small dog breed	1974	material benefit	1
+toy	small dog breed	1974	dry good	1
+toy	small dog breed	1974	modern item	1
+toy	small dog breed	1974	gently-used item	1
+toy	small dog breed	1974	great christmas gift idea	1
+toy	small dog breed	1974	easy item	1
+toy	small dog breed	1974	relic	1
+toy	small dog breed	1974	high margin product	1
+toy	small dog breed	1974	utensil	1
+toy	small dog breed	1974	mass produced item	1
+toy	small dog breed	1974	expression	1
+toy	small dog breed	1974	classic gift	1
+toy	small dog breed	1974	competitive area	1
+toy	small dog breed	1974	low tech product	1
+toy	small dog breed	1974	local store	1
+toy	small dog breed	1974	buy supply	1
+toy	small dog breed	1974	non-porous surface	1
+toy	small dog breed	1974	cheap raw material	1
+toy	small dog breed	1974	optional item	1
+toy	small dog breed	1974	content information	1
+toy	small dog breed	1974	solid item	1
+toy	small dog breed	1974	common household object	1
+toy	small dog breed	1974	typical expense	1
+toy	small dog breed	1974	souvenir item	1
+toy	small dog breed	1974	light object	1
+toy	small dog breed	1974	visitor	1
+toy	small dog breed	1974	designer	1
+toy	small dog breed	1974	discretionary retailer	1
+toy	small dog breed	1974	educational and instructional material	1
+toy	small dog breed	1974	big item	1
+toy	small dog breed	1974	traditional object	1
+toy	small dog breed	1974	travel accessory	1
+toy	small dog breed	1974	big ticket item	1
+toy	small dog breed	1974	touching surface	1
+toy	small dog breed	1974	small design	1
+toy	small dog breed	1974	derivative product	1
+toy	small dog breed	1974	simple activity	1
+toy	small dog breed	1974	decorative accessory	1
+toy	small dog breed	1974	non-food product	1
+toy	small dog breed	1974	free product	1
+toy	small dog breed	1974	positive distraction	1
+toy	small dog breed	1974	non-technical field	1
+toy	small dog breed	1974	aspect of daily life	1
+toy	small dog breed	1974	simple project	1
+toy	small dog breed	1974	handmade craft	1
+toy	small dog breed	1974	crucial information	1
+toy	small dog breed	1974	long term expense	1
+toy	small dog breed	1974	personal use item	1
+toy	small dog breed	1974	household material	1
+toy	small dog breed	1974	holiday favorite	1
+toy	small dog breed	1974	electrical item	1
+toy	small dog breed	1974	small job	1
+toy	small dog breed	1974	functional topic	1
+toy	small dog breed	1974	special	1
+toy	small dog breed	1974	daily program	1
+toy	small dog breed	1974	hunt	1
+toy	small dog breed	1974	distracting item	1
+toy	small dog breed	1974	door prize	1
+toy	small dog breed	1974	day product	1
+toy	small dog breed	1974	cultural item	1
+toy	small dog breed	1974	permanent item	1
+toy	small dog breed	1974	personal material	1
+toy	small dog breed	1974	external object	1
+toy	small dog breed	1974	apparatuses	1
+toy	small dog breed	1974	plastic object	1
+toy	small dog breed	1974	non-agricultural product	1
+toy	small dog breed	1974	kid furniture	1
+toy	small dog breed	1974	practical support	1
+toy	small dog breed	1974	fragile item	1
+toy	small dog breed	1974	family friendly feature	1
+toy	small dog breed	1974	accomplishment	1
+toy	small dog breed	1974	specialised area	1
+toy	small dog breed	1974	curriculum material	1
+toy	small dog breed	1974	training method	1
+toy	small dog breed	1974	meaningful reward	1
+toy	small dog breed	1974	key market sector	1
+toy	small dog breed	1974	background object	1
+toy	small dog breed	1974	white goods	1
+toy	small dog breed	1974	shared surface	1
+toy	small dog breed	1974	c item	1
+toy	small dog breed	1974	non-cash gift	1
+toy	small dog breed	1974	electric device	1
+toy	small dog breed	1974	child's need	1
+toy	small dog breed	1974	buying product	1
+toy	small dog breed	1974	sharp or pointed object	1
+toy	small dog breed	1974	bric-a-brac	1
+toy	small dog breed	1974	household device	1
+toy	small dog breed	1974	handcrafted product	1
+toy	small dog breed	1974	decoration item	1
+toy	small dog breed	1974	secondary item	1
+toy	small dog breed	1974	traditional player	1
+toy	small dog breed	1974	danger area	1
+toy	small dog breed	1974	iitems	1
+toy	small dog breed	1974	sub-sectors	1
+toy	small dog breed	1974	prize donation	1
+nausea	biological and neurological process	1	gastrointestinal symptom	1229
+platinum	photocatalysts	1	preciou metal	1172
+age	heritable trait	1	demographic factor	2541
+fruit	heritable trait	1	healthy food	1069
+silver	opposite	1	preciou metal	1448
+water	opposite	1	fluid	2506
+antibiotic	everyday medication	1	medication	1777
+ibuprofen	everyday medication	1	medication	1000
+aspirin	everyday medication	1	medication	1998
+gas	high profile industry	1	utility	1596
+ginger	sulfur rich vegetable	1	spice	1528
+corn	coarse food	1	crop	3243
+rice	coarse food	1	crop	2171
+name	consideration criterion	1	personal datum	1774
+address	consideration criterion	1	personal datum	1249
+water	organic binder	1	fluid	2506
+water	organic binder	1	utility	2502
+fruit	offer finger food	1	healthy food	1069
+basil	adding stuff	1	herb	2090
+rosemary	adding stuff	1	herb	1974
+tomato	quick cooking veggie	1	crop	1562
+doctor	bodily fluid	1	professional	3334
+oil	publicly available datum	1	fossil fuel	2811
+water	maintenance emergency	1	fluid	2506
+gas	maintenance emergency	1	utility	1596
+water	maintenance emergency	1	utility	2502
+age	child related issue	1	demographic factor	2541
+age	child related issue	1	demographic information	2433
+wal mart	large commercial company	1	retailer	1317
+mobile phone	allowance	1	mobile device	1009
+dog	allowance	1	pet	2166
+rice	allowance	1	crop	2171
+dog	allowance	1	domestic animal	1039
+silk	fascinating character	1	fabric	1076
+wal mart	corporate credit card	1	retailer	1317
+water	fig	1	fluid	2506
+water	fig	1	utility	2502
+name	personal datum	1774	word answer	1
+name	personal datum	1774	friend	1
+name	personal datum	1774	instructor information	1
+name	personal datum	1774	academic	1
+name	personal datum	1774	consideration criterion	1
+address	personal datum	1249	consideration criterion	1
+name	personal datum	1774	button property	1
+address	personal datum	1249	payment related information	1
+name	personal datum	1774	signs	1
+name	personal datum	1774	optional provision	1
+name	personal datum	1774	product info	1
+address	personal datum	1249	informative datum	1
+address	personal datum	1249	advanced feature	1
+name	personal datum	1774	key value	1
+address	personal datum	1249	formal information	1
+name	personal datum	1774	fixed datum	1
+address	personal datum	1249	datum entry error	1
+address	personal datum	1249	instrumental purpose	1
+address	personal datum	1249	unrelated entity	1
+name	personal datum	1774	basic essential	1
+name	personal datum	1774	tell-tale sign	1
+name	personal datum	1774	printed datum	1
+address	personal datum	1249	printed datum	1
+address	personal datum	1249	institutional information	1
+address	personal datum	1249	implementation concept	1
+name	personal datum	1774	basic communication skill	1
+name	personal datum	1774	custom graphic	1
+name	personal datum	1774	datum member	1
+address	personal datum	1249	manufacturer information	1
+name	personal datum	1774	visible symbol	1
+name	personal datum	1774	medium information	1
+name	personal datum	1774	route datum	1
+name	personal datum	1774	linguistic term	1
+name	personal datum	1774	invisible item	1
+address	personal datum	1249	simple element	1
+name	personal datum	1774	surface information	1
+address	personal datum	1249	word information	1
+address	personal datum	1249	participant datum	1
+address	personal datum	1249	enquires	1
+address	personal datum	1249	system state information	1
+name	personal datum	1774	small issue	1
+name	personal datum	1774	limited characteristic	1
+address	personal datum	1249	customer account datum	1
+name	personal datum	1774	soil information	1
+name	personal datum	1774	process setting	1
+address	personal datum	1249	personal datum information	1
+name	personal datum	1774	proper information	1
+address	personal datum	1249	proper information	1
+address	personal datum	1249	extensive information	1
+address	personal datum	1249	follow up procedure	1
+address	personal datum	1249	nonpublic information	1
+name	personal datum	1774	best quality	1
+name	personal datum	1774	small defect	1
+address	personal datum	1249	accompanying datum	1
+name	personal datum	1774	design attribute	1
+name	personal datum	1774	japanese culture	1
+name	personal datum	1774	book information	1
+address	personal datum	1249	vocabulary	1
+name	personal datum	1774	registration change	1
+address	personal datum	1249	registration change	1
+name	personal datum	1774	linguistic entity	1
+name	personal datum	1774	vitals	1
+address	personal datum	1249	vitals	1
+name	personal datum	1774	call information	1
+name	personal datum	1774	email	1
+name	personal datum	1774	employee profile information	1
+address	personal datum	1249	employee profile information	1
+address	personal datum	1249	sub type	1
+address	personal datum	1249	error value	1
+name	personal datum	1774	search item	1
+name	personal datum	1774	contextual material	1
+name	personal datum	1774	content information	1
+address	personal datum	1249	content information	1
+name	personal datum	1774	environment information	1
+name	personal datum	1774	root	1
+address	personal datum	1249	recorder	1
+address	personal datum	1249	back up material	1
+name	personal datum	1774	differentiating factor	1
+name	personal datum	1774	key property	1
+name	personal datum	1774	type keyword	1
+name	personal datum	1774	textual attribute	1
+address	personal datum	1249	textual attribute	1
+address	personal datum	1249	aspect of personal life	1
+address	personal datum	1249	common task	1
+address	personal datum	1249	commercial information	1
+name	personal datum	1774	public domain information	1
+address	personal datum	1249	transaction	1
+name	personal datum	1774	optional service	1
+name	personal datum	1774	international player	1
+name	personal datum	1774	peripheral datum	1
+name	personal datum	1774	product s attribute	1
+name	personal datum	1774	valid contact information	1
+name	personal datum	1774	information point	1
+name	personal datum	1774	contemporary artist	1
+name	personal datum	1774	pen	1
+address	personal datum	1249	entry field	1
+name	personal datum	1774	vital customer information	1
+address	personal datum	1249	vital customer information	1
+address	personal datum	1249	members information	1
+name	personal datum	1774	subelements	1
+name	personal datum	1774	dvd information	1
+name	personal datum	1774	text-based datum	1
+address	personal datum	1249	expansion card	1
+name	personal datum	1774	pharmacy information	1
+address	personal datum	1249	pharmacy information	1
+address	personal datum	1249	convention	1
+name	personal datum	1774	change request	1
+address	personal datum	1249	change request	1
+name	personal datum	1774	registration question	1
+name	personal datum	1774	birth information	1
+name	personal datum	1774	burial information	1
+name	personal datum	1774	layer property	1
+address	personal datum	1249	literal	1
+address	personal datum	1249	advanced concept	1
+address	personal datum	1249	attribute name	1
+name	personal datum	1774	green car	1
+name	personal datum	1774	layout	1
+address	personal datum	1249	layout	1
+name	personal datum	1774	page information	1
+address	personal datum	1249	page information	1
+name	personal datum	1774	credit information	1
+name	personal datum	1774	standard identifier	1
+address	personal datum	1249	standard identifier	1
+address	personal datum	1249	automated tool	1
+address	personal datum	1249	simple clerical error	1
+name	personal datum	1774	company specific	1
+address	personal datum	1249	datum set	1
+address	personal datum	1249	facility attribute	1
+name	personal datum	1774	accuracy	1
+name	personal datum	1774	innovator	1
+name	personal datum	1774	breakout	1
+address	personal datum	1249	park information	1
+name	personal datum	1774	basic school information	1
+name	personal datum	1774	discrete measure	1
+address	personal datum	1249	job specific information	1
+name	personal datum	1774	product field	1
+name	personal datum	1774	customer specific datum	1
+address	personal datum	1249	simple error	1
+name	personal datum	1774	aspect of datum quality	1
+name	personal datum	1774	generic keyword	1
+name	personal datum	1774	simple project	1
+name	personal datum	1774	real world information	1
+address	personal datum	1249	real world information	1
+address	personal datum	1249	bus signal	1
+name	personal datum	1774	list element	1
+address	personal datum	1249	list element	1
+address	personal datum	1249	activity information	1
+address	personal datum	1249	extended information	1
+name	personal datum	1774	personal and business information	1
+address	personal datum	1249	personal and business information	1
+name	personal datum	1774	datum flow	1
+name	personal datum	1774	simple datum item	1
+address	personal datum	1249	simple datum item	1
+name	personal datum	1774	state specific information	1
+address	personal datum	1249	state specific information	1
+address	personal datum	1249	license information	1
+name	personal datum	1774	signage	1
+name	personal datum	1774	transfer information	1
+name	personal datum	1774	rich information	1
+address	personal datum	1249	rich information	1
+name	personal datum	1774	material attribute	1
+name	personal datum	1774	static parameter	1
+name	personal datum	1774	fileds	1
+name	personal datum	1774	table property	1
+name	personal datum	1774	vessel information	1
+name	personal datum	1774	aspect of the brand	1
+address	personal datum	1249	report	1
+name	personal datum	1774	interesting fact	1
+address	personal datum	1249	protease inhibitor	1
+address	personal datum	1249	location specific information	1
+address	personal datum	1249	hotel	1
+name	personal datum	1774	field property	1
+name	personal datum	1774	complaint	1
+name	personal datum	1774	elementary property	1
+name	personal datum	1774	verbal clue	1
+name	personal datum	1774	memory cue	1
+name	personal datum	1774	ingredients	1
+name	personal datum	1774	costly procedure	1
+name	personal datum	1774	medallion	1
+name	personal datum	1774	custom message	1
+name	personal datum	1774	theoretical knowledge	1
+name	personal datum	1774	ethnic marker	1
+name	personal datum	1774	universal object	1
+address	personal datum	1249	universal object	1
+address	personal datum	1249	customized datum	1
+name	personal datum	1774	county title	1
+name	personal datum	1774	chemistry topic	1
+name	personal datum	1774	interface	1
+name	personal datum	1774	routine check	1
+address	personal datum	1249	microformat	1
+name	personal datum	1774	fundamental attribute	1
+name	personal datum	1774	visual device	1
+name	personal datum	1774	blueprint	1
+name	personal datum	1774	good information	1
+address	personal datum	1249	good information	1
+address	personal datum	1249	local indicator	1
+address	personal datum	1249	rule	1
+name	personal datum	1774	status information	1
+address	personal datum	1249	status information	1
+address	personal datum	1249	subobjects	1
+address	personal datum	1249	intelligence information	1
+name	personal datum	1774	intelligence information	1
+name	personal datum	1774	music fundamental	1
+teacher	personal datum	1	professional	1272
+name	personal datum	1774	endless category	1
+name	personal datum	1774	brand asset	1
+address	personal datum	1249	database element	1
+address	personal datum	1249	informational sign	1
+name	personal datum	1774	lie	1
+name	personal datum	1774	weapon skill	1
+address	personal datum	1249	ssid	1
+name	personal datum	1774	technical expert	1
+address	personal datum	1249	contact particular	1
+name	personal datum	1774	sequence attribute	1
+name	personal datum	1774	top level domain name	1
+name	personal datum	1774	datum table	1
+address	personal datum	1249	datum table	1
+address	personal datum	1249	basic step	1
+name	personal datum	1774	intellectual property right	1
+name	personal datum	1774	practice information	1
+address	personal datum	1249	practice information	1
+name	personal datum	1774	chinese philosophy	1
+name	personal datum	1774	decorative design	1
+name	personal datum	1774	essential element	1
+name	personal datum	1774	non words	1
+address	personal datum	1249	master record	1
+name	personal datum	1774	human resource application	1
+name	personal datum	1774	print	1
+mobile phone	remote channel	1	mobile device	1009
+birthday	normal information	1	occasion	2879
+wal mart	streaming service	1	retailer	1317
+water	suitable binder	1	fluid	2506
+water	suitable binder	1	utility	2502
+gender	social hierarchy	1	demographic characteristic	1337
+gender	social hierarchy	1	demographic factor	1507
+gender	social hierarchy	1	demographic information	1785
+gender	syntactic information	1	demographic characteristic	1337
+gender	syntactic information	1	demographic factor	1507
+gender	syntactic information	1	demographic information	1785
+oil	herbal oil	1	fossil fuel	2811
+carrot	herbal oil	1	root vegetable	1284
+pdas	human system	1	mobile device	1027
+chemotherapy	cancer treatment	1101	academic	1
+chemotherapy	cancer treatment	1101	serious disease	1
+chemotherapy	cancer treatment	1101	influence	1
+chemotherapy	cancer treatment	1101	chronic condition	1
+chemotherapy	cancer treatment	1101	non invasive treatment	1
+chemotherapy	cancer treatment	1101	keyword	1
+chemotherapy	cancer treatment	1101	nonsurgical procedure	1
+chemotherapy	cancer treatment	1101	seed	1
+chemotherapy	cancer treatment	1101	offer	1
+chemotherapy	cancer treatment	1101	classical approach	1
+chemotherapy	cancer treatment	1101	evidence	1
+wheat	nutritive ingredient	1	cereal	1349
+vitamin	nutritive ingredient	1	nutrient	1395
+wheat	nutritive ingredient	1	crop	3132
+target	advertisement	1	retailer	1285
+tablet	solid mass	1	mobile device	2895
+water	urban structure	1	fluid	2506
+gas	urban structure	1	utility	1596
+water	urban structure	1	utility	2502
+electricity	urban structure	1	utility	1990
+diuretic	inappropriate treatment	1	medication	1211
+doctor	trade title	1	professional	3334
+wheat	inert ingredient	1	cereal	1349
+rice	inert ingredient	1	crop	2171
+wheat	inert ingredient	1	crop	3132
+oil	inert ingredient	1	fossil fuel	2811
+rosemary	hydrating element	1	herb	1974
+platinum	cool color	1	noble metal	1011
+option	common stock equivalent	1	derivative	1161
+silver	desirable color	1	preciou metal	1448
+cotton	traffic	1	fabric	1046
+wheat	traffic	1	cereal	1349
+wheat	traffic	1	crop	3132
+cotton	traffic	1	crop	1998
+coal	traffic	1	fossil fuel	3813
+oil	traffic	1	fossil fuel	2811
+pdas	high-tech option	1	mobile device	1027
+option	corporate action	1	derivative	1161
+oil	indicator light	1	fossil fuel	2811
+mobile phone	security breach	1	mobile device	1009
+ginger	good basic	1	spice	1528
+doctor	carer	1	professional	3334
+vegetable	product line	1	healthy food	1647
+fruit	product line	1	healthy food	1069
+coal	product line	1	fossil fuel	3813
+name	button property	1	personal datum	1774
+ibuprofen	salicylate	1	medication	1000
+oil	environmental application	1	fossil fuel	2811
+water	environmental application	1	utility	2502
+zinc	volatile substance	1	nutrient	1126
+target	neighborhood store	1	retailer	1285
+nausea	anomalous behavior	1	gastrointestinal symptom	1229
+oil	monopoly	1	fossil fuel	2811
+target	witness trim	1	retailer	1285
+antibiotic	host defense	1	medication	1777
+gold	area attraction	1	noble metal	1116
+gold	area attraction	1	preciou metal	2320
+cotton	cream	1	fabric	1046
+cabbage	cream	1	cruciferous vegetable	1689
+antibiotic	cream	1	medication	1777
+ibuprofen	cream	1	medication	1000
+steroid	cream	1	medication	1291
+lemon	cream	1	citrus fruit	1426
+economic	cost measure	1	discipline	1193
+ibuprofen	common pain killer	1	medication	1000
+electricity	housing related cost	1	utility	1990
+gas	housing related cost	1	utility	1596
+wheat	economically valuable specie	1	cereal	1349
+wheat	economically valuable specie	1	crop	3132
+rice	economically valuable specie	1	crop	2171
+corn	food can	1	crop	3243
+bean	food can	1	crop	1213
+pdas	small form factor computer	1	mobile device	1027
+mobile phone	modern technology tool	1	mobile device	1009
+silver	combo	1	preciou metal	1448
+basil	healthy seasoning	1	herb	2090
+oil	norm	1	fossil fuel	2811
+age	norm	1	demographic information	2433
+economic	norm	1	discipline	1193
+water	purpose vehicle	1	fluid	2506
+water	purpose vehicle	1	utility	2502
+cotton	covering material	1	crop	1998
+wheat	reason food	1	cereal	1349
+wheat	reason food	1	crop	3132
+gender	aspect of water management	1	demographic characteristic	1337
+gender	aspect of water management	1	demographic factor	1507
+gender	aspect of water management	1	demographic information	1785
+wheat	raw material price	1	cereal	1349
+wheat	raw material price	1	crop	3132
+gender	otherfactors	1	demographic factor	1507
+gender	otherfactors	1	demographic information	1785
+antibiotic	otherfactors	1	medication	1777
+accountant	female professional	1	professional	1868
+cotton	polyploid crop	1	fabric	1046
+wal mart	destination store	1	retailer	1317
+kidney	physical impairment	1	organ	3011
+economic	multi stakeholder forum	1	discipline	1193
+address	payment related information	1	personal datum	1249
+gas	non-renewables	1	utility	1596
+lemon	minor tributary	1	citrus fruit	1426
+christmas	social engagement	1	occasion	1053
+cinnamon	wacky flavor	1	spice	2572
+brain	neuromuscular disorder	1	organ	1692
+gender	social risk	1	demographic characteristic	1337
+gender	social risk	1	demographic factor	1507
+gender	social risk	1	demographic information	1785
+gas	conventional energy resource	1	utility	1596
+water	conventional energy resource	1	utility	2502
+water	ongoing contract	1	fluid	2506
+electricity	ongoing contract	1	utility	1990
+water	ongoing contract	1	utility	2502
+gas	ongoing contract	1	utility	1596
+coal	large corporation	1	fossil fuel	3813
+brain	research opportunity	1	organ	1692
+wheat	paper	1	cereal	1349
+gold	paper	1	noble metal	1116
+gold	paper	1	preciou metal	2320
+cat	paper	1	pet	1939
+oil	paper	1	fossil fuel	2811
+bee	paper	1	insect	1441
+name	signs	1	personal datum	1774
+psychology	physical science	1	discipline	1605
+chemotherapy	serious disease	1	cancer treatment	1101
+water	gadget	1	fluid	2506
+antioxidant	ancillary ingredient	1	additive	3084
+dye	ancillary ingredient	1	additive	1133
+lubricant	ancillary ingredient	1	additive	1424
+british columbia	renowned physician	1	province	1063
+cotton	herbaceous specie	1	fabric	1046
+spinach	herbaceous specie	1	leafy green	1090
+water	herbaceous specie	1	fluid	2506
+water	herbaceous specie	1	utility	2502
+filing	job requirement	1	clerical duty	1708
+directory	advertising material	1	secondary source	1148
+brain	form of blindness	1	organ	1692
+sage	software provider	1	herb	1110
+age	customer record	1	demographic factor	2541
+age	customer record	1	demographic information	2433
+towel	janitorial product	1	personal item	1397
+facebook	organisations	1	social medium outlet	1024
+fruit	naturally sweet fruit	1	healthy food	1069
+christmas	monthly club	1	occasion	1053
+lemon	antibacterial ingredient	1	citrus fruit	1426
+clove	antibacterial ingredient	1	spice	1359
+facebook	large employer	1	social medium outlet	1024
+aspirin	valuable drug	1	nsaid	1116
+antibiotic	valuable drug	1	medication	1777
+aspirin	valuable drug	1	medication	1998
+tetracycline	photosensitive medication	1	antibiotic	1722
+gender	relative issue	1	demographic characteristic	1337
+gender	relative issue	1	demographic factor	1507
+gender	relative issue	1	demographic information	1785
+water	complex constraint	1	fluid	2506
+water	complex constraint	1	utility	2502
+water	annual datum	1	fluid	2506
+water	annual datum	1	utility	2502
+water	key supply	1	fluid	2506
+water	key supply	1	utility	2502
+mobile phone	modern technological advancement	1	mobile device	1009
+vegetable	blender	1	healthy food	1647
+zinc	adding reactive element	1	nutrient	1126
+magnesium	adding reactive element	1	nutrient	1211
+calcium	adding reactive element	1	nutrient	1618
+target	big name franchise	1	retailer	1285
+gender	upstream factor	1	demographic characteristic	1337
+gender	upstream factor	1	demographic factor	1507
+gender	upstream factor	1	demographic information	1785
+economic	upstream factor	1	discipline	1193
+oil	energy intensive company	1	fossil fuel	2811
+tablet	emergency contraception	1	mobile device	2895
+corn	daily chore	1	crop	3243
+rice	f. item	1	crop	2171
+name	optional provision	1	personal datum	1774
+gender	generic question	1	demographic characteristic	1337
+gender	generic question	1	demographic factor	1507
+gender	generic question	1	demographic information	1785
+coal	prominent sector	1	fossil fuel	3813
+oil	prominent sector	1	fossil fuel	2811
+oil	multi-component system	1	fossil fuel	2811
+doctor	professional society	1	professional	3334
+engineer	professional society	1	professional	1186
+teacher	professional society	1	professional	1272
+aspirin	non-prescription item	1	medication	1998
+water	mechanical procedure	1	fluid	2506
+water	mechanical procedure	1	utility	2502
+cinnamon	spiced tea	1	spice	2572
+ginger	spiced tea	1	spice	1528
+oil	natural fat source	1	fossil fuel	2811
+engineer	crew position	1	professional	1186
+sage	successful local company	1	herb	1110
+air	impact wrench	1	fluid	1128
+economic	social shift	1	discipline	1193
+vegetable	low glycaemic index carbohydrate	1	healthy food	1647
+fruit	low glycaemic index carbohydrate	1	healthy food	1069
+temperature	culture condition	1135	fault	1
+temperature	culture condition	1135	traditional measure	1
+temperature	culture condition	1135	kind of information	1
+temperature	culture condition	1135	keyword	1
+temperature	culture condition	1135	safety measure	1
+temperature	culture condition	1135	manifestation	1
+temperature	culture condition	1135	peripheral device	1
+temperature	culture condition	1135	molecular technique	1
+age	ancillary factor	1	demographic factor	2541
+age	ancillary factor	1	demographic information	2433
+wheat	economic burden	1	cereal	1349
+corn	economic burden	1	crop	3243
+rice	economic burden	1	crop	2171
+wheat	economic burden	1	crop	3132
+soybean	economic burden	1	crop	1589
+ginger	sorbet	1	spice	1528
+orange	regional player	1	citrus fruit	2164
+gas	microbial process	1	utility	1596
+lung	functional imaging	1	organ	2622
+tomato	closely related organism	1	crop	1562
+corticosteroid	scientific advance	1	medication	1094
+meditation	topic s	1	relaxation technique	2166
+kidney	plant-based protein source	1	organ	3011
+fruit	plant-based protein source	1	healthy food	1069
+vegetable	plant-based protein source	1	healthy food	1647
+erythromycin	prophylactic drug	1	antibiotic	1035
+iron	prophylactic drug	1	nutrient	1390
+lawyer	prominent citizen	1	professional	2857
+cotton	soft natural fiber	1	fabric	1046
+silk	soft natural fiber	1	fabric	1076
+cotton	soft natural fiber	1	crop	1998
+vitamin	synergistic factor	1	nutrient	1395
+fruit	allah s creature	1	healthy food	1069
+chemotherapy	influence	1	cancer treatment	1101
+target	influence	1	retailer	1285
+rice	influence	1	crop	2171
+corticosteroid	influence	1	medication	1094
+nausea	influence	1	gastrointestinal symptom	1229
+facebook	technology provider	1	social medium outlet	1024
+teacher	technology provider	1	professional	1272
+address	informative datum	1	personal datum	1249
+electricity	public utility project	1	utility	1990
+gas	gastrointestinal condition	1	utility	1596
+hydrogen peroxide	acidic solution	1	reactive oxygen specie	1677
+erythromycin	well-known drug	1	antibiotic	1035
+aspirin	well-known drug	1	medication	1998
+gender	contextual feature	1	demographic factor	1507
+age	contextual feature	1	demographic factor	2541
+gender	contextual feature	1	demographic information	1785
+age	contextual feature	1	demographic information	2433
+tomato	bird choice	1	crop	1562
+corn	bird choice	1	crop	3243
+gas	fuel supply	1	utility	1596
+aspirin	well known medication	1	nsaid	1116
+corticosteroid	well known medication	1	medication	1094
+beta blocker	well known medication	1	medication	1191
+antihistamine	well known medication	1	medication	1328
+aspirin	well known medication	1	medication	1998
+water	sustainable theme	1	fluid	2506
+water	sustainable theme	1	utility	2502
+water	complimentary offer	1	fluid	2506
+water	complimentary offer	1	utility	2502
+psychology	useless job	1	discipline	1605
+teacher	useless job	1	professional	1272
+anniversary	photography service	1	occasion	1274
+gas	state owned company	1	utility	1596
+water	coordinative solvent	1	fluid	2506
+water	coordinative solvent	1	utility	2502
+mobile phone	video	1	mobile device	1009
+facebook	video	1	social medium outlet	1024
+meditation	video	1	relaxation technique	2166
+gender	yoga position	1	demographic characteristic	1337
+gender	yoga position	1	demographic factor	1507
+gender	yoga position	1	demographic information	1785
+toy	personal use item	1	small dog breed	1974
+toy	competitive area	1	small dog breed	1974
+birthday	house party	1	occasion	2879
+wedding	house party	1	occasion	3480
+water	molecular weight specie	1	utility	2502
+address	advanced feature	1	personal datum	1249
+facebook	advanced feature	1	social medium outlet	1024
+zinc	natural mineral ingredient	1	nutrient	1126
+magnesium	natural mineral ingredient	1	nutrient	1211
+age	practical disadvantage	1	demographic factor	2541
+age	practical disadvantage	1	demographic information	2433
+fruit	horticultural enterprise	1	healthy food	1069
+age	broad construct	1	demographic factor	2541
+age	broad construct	1	demographic information	2433
+electricity	linear infrastructure project	1	utility	1990
+water	state enterprise	1	fluid	2506
+gas	state enterprise	1	utility	1596
+water	state enterprise	1	utility	2502
+toy	training aid	1	small dog breed	1974
+doctor	professional provider	1	professional	3334
+accountant	professional provider	1	professional	1868
+nurse	professional provider	1	professional	1048
+age	broad consideration	1	demographic factor	2541
+age	broad consideration	1	demographic information	2433
+water	thinkable bacterial vaginosis home remedy	1	fluid	2506
+water	thinkable bacterial vaginosis home remedy	1	utility	2502
+turmeric	thinkable bacterial vaginosis home remedy	1	spice	1056
+cotton	storable commodity	1	fabric	1046
+water	non porous item	1	fluid	2506
+water	non porous item	1	utility	2502
+lemon	biennial and perennial herb	1	citrus fruit	1426
+gender	statistical analysis categorical variable	1	demographic characteristic	1337
+gender	statistical analysis categorical variable	1	demographic factor	1507
+gender	statistical analysis categorical variable	1	demographic information	1785
+mobile phone	human computer interface	1	mobile device	1009
+gender	considering various factor	1	demographic factor	1507
+age	considering various factor	1	demographic factor	2541
+gender	considering various factor	1	demographic information	1785
+age	considering various factor	1	demographic information	2433
+broccoli	thigs	1	cruciferous vegetable	2469
+dye	laundry article	1	additive	1133
+age	morphological attribute	1	demographic factor	2541
+age	morphological attribute	1	demographic information	2433
+oil	high end project	1	fossil fuel	2811
+gas	high end project	1	utility	1596
+tablet	promotional item	1	mobile device	2895
+christmas	promotional item	1	occasion	1053
+target	3rd party vendor	1	retailer	1285
+brain	delicate food	1	organ	1692
+dog	npcs	1	pet	2166
+corn	frozen mixed vegetable	1	crop	3243
+anniversary	regular occasion	1	occasion	1274
+wedding	regular occasion	1	occasion	3480
+cotton	vegetable material	1	fabric	1046
+lemon	anti cancer food	1	citrus fruit	1426
+wheat	skin softening ingredient	1	cereal	1349
+wheat	skin softening ingredient	1	crop	3132
+ginger	invasive weed	1	spice	1528
+water	fermented drink	1	fluid	2506
+water	fermented drink	1	utility	2502
+target	good practice	1	retailer	1285
+teacher	good practice	1	professional	1272
+vegetable	frozen goods	1	healthy food	1647
+silver	electrical conductive material	1	preciou metal	1448
+sociology	honor course	1	discipline	1636
+nausea	stomach	1	gastrointestinal symptom	1229
+age	temporal pattern	1	demographic factor	2541
+age	temporal pattern	1	demographic information	2433
+vitamin	home medical product	1	nutrient	1395
+oil	rich country	1	fossil fuel	2811
+water	rich country	1	fluid	2506
+water	rich country	1	utility	2502
+nurse	vital position	1	professional	1048
+water	homemade remedy	1	utility	2502
+cinnamon	homemade remedy	1	spice	2572
+birthday	simple question	1	occasion	2879
+tomato	key food	1	crop	1562
+corn	key food	1	crop	3243
+bean	key food	1	crop	1213
+rice	key food	1	crop	2171
+cinnamon	key food	1	spice	2572
+teacher	standard role	1	professional	1272
+tomato	candidate specie	1	crop	1562
+oil	industrial accident	1	fossil fuel	2811
+silk	tape	1	fabric	1076
+age	student specific information	1	demographic factor	2541
+age	student specific information	1	demographic information	2433
+surfactant	formulation factor	1	additive	1793
+wheat	utilitarian item	1	cereal	1349
+smart phone	utilitarian item	1	mobile device	1894
+corn	utilitarian item	1	crop	3243
+wheat	utilitarian item	1	crop	3132
+oil	retail chain	1	fossil fuel	2811
+cauliflower	mushroom specie	1	cruciferous vegetable	1522
+tablet	input peripheral	1	mobile device	2895
+nitrogen	water indicator	1	nutrient	3047
+phosphorus	water indicator	1	nutrient	2326
+social worker	licensed individual	1	professional	1240
+engineer	licensed individual	1	professional	1186
+accountant	licensed individual	1	professional	1868
+antihistamine	prescription treatment	1	medication	1328
+zinc	dietry supplement	1	nutrient	1126
+vegetable	great recipe	1	healthy food	1647
+oil	auxiliary building	1	fossil fuel	2811
+psychology	academic work	1	discipline	1605
+wheat	avoiding inflammatory food	1	cereal	1349
+wheat	avoiding inflammatory food	1	crop	3132
+wheat	traditional beer	1	cereal	1349
+wheat	traditional beer	1	crop	3132
+silk	natural and traditional material	1	fabric	1076
+gender	single identifier	1	demographic characteristic	1337
+gender	single identifier	1	demographic factor	1507
+gender	single identifier	1	demographic information	1785
+rice	rbs	1	crop	2171
+oil	non perishable food	1	fossil fuel	2811
+water	non perishable food	1	utility	2502
+turmeric	organic color	1	spice	1056
+doctor	cohort	1	professional	3334
+pdas	hand-held item	1	mobile device	1027
+age	property factor	1	demographic factor	2541
+age	property factor	1	demographic information	2433
+oil	service point	1	fossil fuel	2811
+filler	service point	1	additive	1892
+oil	normal treatment	1	fossil fuel	2811
+clove	normal treatment	1	spice	1359
+ginger	normal treatment	1	spice	1528
+water	pure compound	1	utility	2502
+plasticizer	pure compound	1	additive	2206
+water	chemical medium	1	fluid	2506
+water	chemical medium	1	utility	2502
+name	key value	1	personal datum	1774
+age	key value	1	demographic characteristic	2579
+wheat	reactive food	1	cereal	1349
+wheat	reactive food	1	crop	3132
+corn	reactive food	1	crop	3243
+rice	sensitive food product	1	crop	2171
+teacher	classroom condition	1	professional	1272
+iron	standard hotel amenity	1	nutrient	1390
+lawyer	zealand business	1	professional	2857
+oil	basic medium type	1	fossil fuel	2811
+iron	comfortable and modern facility	1	nutrient	1390
+wal mart	growing company	1	retailer	1317
+water	aspect of the work environment	1	utility	2502
+mobile phone	pairing	1	mobile device	1009
+ginger	pairing	1	spice	1528
+cumin	pairing	1	spice	1006
+tetracycline	systemic therapy	1	antibiotic	1722
+address	formal information	1	personal datum	1249
+maize	marginal crop	1	crop	2449
+corn	marginal crop	1	crop	3243
+basil	calmative herb	1	herb	2090
+toy	basic item	1	small dog breed	1974
+gold	basic item	1	noble metal	1116
+gold	basic item	1	preciou metal	2320
+silver	basic item	1	preciou metal	1448
+hydrogen peroxide	basic item	1	reactive oxygen specie	1677
+water	cultural technique	1	fluid	2506
+water	cultural technique	1	utility	2502
+vegetable	health risk	1	healthy food	1647
+rice	commodity supplier	1	crop	2171
+bean	commodity supplier	1	crop	1213
+oil	commodity supplier	1	fossil fuel	2811
+name	fixed datum	1	personal datum	1774
+filler	details	1	additive	1892
+economic	long term structural change	1	discipline	1193
+grasshopper	wild insect	1	insect	1042
+bee	wild insect	1	insect	1441
+aspirin	exposure	1	nsaid	1116
+antibiotic	exposure	1	medication	1777
+aspirin	exposure	1	medication	1998
+oil	compelling reason	1	fossil fuel	2811
+water	noncombustible material	1	utility	2502
+corticosteroid	hormonal medication	1	medication	1094
+maize	determinate plant	1	crop	2449
+sorghum	determinate plant	1	crop	1066
+water	key environmental indicator	1	utility	2502
+age	physician-related factor	1	demographic factor	2541
+age	physician-related factor	1	demographic information	2433
+fruit	vegetable waste	1	healthy food	1069
+ginger	herb herbal supplement	1	spice	1528
+clove	natural aromatic plant extract	1	spice	1359
+cumin	natural aromatic plant extract	1	spice	1006
+ginger	natural aromatic plant extract	1	spice	1528
+cinnamon	natural aromatic plant extract	1	spice	2572
+coal	bulk substrate	1	fossil fuel	3813
+water	filtration	1	fluid	2506
+corticosteroid	emergency measure	1	medication	1094
+antihistamine	emergency measure	1	medication	1328
+antibiotic	hormonal disorder	1	medication	1777
+age	common circumstance	1	demographic factor	2541
+age	common circumstance	1	demographic information	2433
+bean	countable object	1	crop	1213
+water	low calorie mixer	1	utility	2502
+barley	winter annual	1	crop	1069
+rice	winter annual	1	crop	2171
+smartphone	costly item	1	mobile device	3700
+tablet	costly item	1	mobile device	2895
+directory	costly item	1	secondary source	1148
+ginger	gallbladder disorder	1	spice	1528
+iron	construction commodity	1	nutrient	1390
+teacher	neighborhood leader	1	professional	1272
+gas	gas medium	1	utility	1596
+mobile phone	off the shelf technology	1	mobile device	1009
+cotton	basic food stuff	1	fabric	1046
+oil	basic food stuff	1	fossil fuel	2811
+yoga	program element	1	relaxation technique	1919
+target	traditional retail store	1	retailer	1285
+water	public work function	1	fluid	2506
+water	public work function	1	utility	2502
+vegetable	production	1	healthy food	1647
+oil	production	1	fossil fuel	2811
+coal	production	1	fossil fuel	3813
+ant	production	1	insect	1036
+fruit	novelty shape	1	healthy food	1069
+filing	office managerial duty	1	clerical duty	1708
+brain	cancer disease	1	organ	1692
+electricity	large energy user	1	utility	1990
+lubricant	potential pollutant	1	additive	1424
+address	datum entry error	1	personal datum	1249
+water	housing condition	1	fluid	2506
+water	housing condition	1	utility	2502
+bean	exercise device	1	crop	1213
+wal mart	large edi hub	1	retailer	1317
+lawyer	social agent	1	professional	2857
+cotton	luxe material	1	crop	1998
+maize	second crop	1	crop	2449
+corn	second crop	1	crop	3243
+bean	second crop	1	crop	1213
+gas	intangible goods	1	utility	1596
+wheat	cereal	1349	common trigger food	1
+wheat	cereal	1349	hay	1
+cotton	cereal	1	fabric	1046
+wheat	cereal	1349	nutritive ingredient	1
+wheat	cereal	1349	inert ingredient	1
+wheat	cereal	1349	traffic	1
+wheat	cereal	1349	economically valuable specie	1
+wheat	cereal	1349	raw material price	1
+wheat	cereal	1349	paper	1
+wheat	cereal	1349	economic burden	1
+wheat	cereal	1349	susceptible specie	1
+wheat	cereal	1349	skin softening ingredient	1
+wheat	cereal	1349	avoiding inflammatory food	1
+wheat	cereal	1349	traditional beer	1
+wheat	cereal	1349	reactive food	1
+wheat	cereal	1349	industrial crop	1
+wheat	cereal	1349	critical market	1
+wheat	cereal	1349	short day plant	1
+wheat	cereal	1349	others plant	1
+wheat	cereal	1349	statutory authority	1
+wheat	cereal	1349	sulphur-containing food	1
+wheat	cereal	1349	avoiding allergen	1
+wheat	cereal	1349	gentle natural ingredient	1
+wheat	cereal	1349	resistant plant	1
+wheat	cereal	1349	homogenous product	1
+wheat	cereal	1349	textured flower	1
+wheat	cereal	1349	monocrops	1
+wheat	cereal	1349	natural chemical	1
+wheat	cereal	1349	angiosperm specie	1
+wheat	cereal	1349	attention	1
+wheat	cereal	1349	biomass feedstocks	1
+wheat	cereal	1349	consumable goods	1
+wheat	cereal	1349	derivative	1
+wheat	cereal	1349	controlled product	1
+wheat	cereal	1349	non woody plant	1
+wheat	cereal	1349	reason food	1
+wheat	cereal	1349	rough food	1
+wheat	cereal	1349	super foods	1
+wheat	cereal	1349	flavored tortilla	1
+wheat	cereal	1349	identical product	1
+wheat	cereal	1349	key specie	1
+wheat	cereal	1349	artificial ingredient	1
+wheat	cereal	1349	national product	1
+wheat	cereal	1349	impurity	1
+wheat	cereal	1349	commonly problematic food	1
+wheat	cereal	1349	waste product	1
+wheat	cereal	1349	hard seed	1
+wheat	cereal	1349	plant fall crop	1
+wheat	cereal	1349	powdered form	1
+wheat	cereal	1349	gold color	1
+wheat	cereal	1349	tone	1
+wheat	cereal	1349	grass species	1
+wheat	cereal	1349	morphological process	1
+wheat	cereal	1349	agriculture good	1
+wheat	cereal	1349	ordinary crop	1
+wheat	cereal	1349	common item	1
+wheat	cereal	1349	plant biomass	1
+wheat	cereal	1349	established crop	1
+wheat	cereal	1349	plant-based protein	1
+wheat	cereal	1349	import commodity	1
+wheat	cereal	1349	agricultural activity	1
+wheat	cereal	1349	bird food	1
+wheat	cereal	1349	atmospheric condition	1
+wheat	cereal	1349	external protein	1
+wheat	cereal	1349	delicate plant	1
+wheat	cereal	1349	expensive filler	1
+wheat	cereal	1349	traditional activity	1
+wheat	cereal	1349	tangible commodity	1
+wheat	cereal	1349	medication	1
+wheat	cereal	1349	baked goods	1
+wheat	cereal	1349	biomass fuel	1
+wheat	cereal	1349	seasonal good	1
+wheat	cereal	1349	agricultural and food product	1
+wheat	cereal	1349	vital resource	1
+wheat	cereal	1349	plant matter	1
+wheat	cereal	1349	problem food	1
+wheat	cereal	1349	cooked item	1
+wheat	cereal	1349	non-leguminous crop	1
+wheat	cereal	1349	arable farming	1
+wheat	cereal	1349	utilitarian item	1
+wheat	cereal	1349	traditional cover	1
+wheat	cereal	1349	protein food	1
+wheat	cereal	1349	food culprit	1
+wheat	cereal	1349	simple everyday material	1
+wheat	cereal	1349	common seed	1
+wheat	cereal	1349	shade	1
+wheat	cereal	1349	liquid biofuels	1
+wheat	cereal	1349	seed plant	1
+wheat	cereal	1349	fuel type	1
+wheat	cereal	1349	export commodity	1
+wheat	cereal	1349	buffet option	1
+wheat	cereal	1349	imported raw material	1
+wheat	cereal	1349	natural alternative	1
+wheat	cereal	1349	interspecific hybrid	1
+wheat	cereal	1349	renewable agricultural product	1
+wheat	cereal	1349	aroma	1
+wheat	cereal	1349	input	1
+wheat	cereal	1349	rule	1
+wheat	cereal	1349	dry bulk cargo	1
+wheat	cereal	1349	co product	1
+wheat	cereal	1349	japanese beer	1
+wheat	cereal	1349	aliment	1
+wheat	cereal	1349	block	1
+wheat	cereal	1349	angiosperm	1
+wheat	cereal	1349	additive	1
+wheat	cereal	1349	competing crop	1
+wheat	cereal	1349	stable market	1
+wheat	cereal	1349	seemingly healthy food	1
+wheat	cereal	1349	short lived plant	1
+steroid	medicinally bioactive compound	1	medication	1291
+target	online outlet	1	retailer	1285
+lubricant	conventional aid	1	additive	1424
+water	program address issue	1	fluid	2506
+water	program address issue	1	utility	2502
+wedding	big new	1	occasion	3480
+economic	transnational process	1	discipline	1193
+orange	consumer brand	1	citrus fruit	2164
+wal mart	local pharmacy	1	retailer	1317
+social worker	critical position	1	professional	1240
+doctor	critical position	1	professional	3334
+lubricant	retail merchandise	1	additive	1424
+vegetable	quick dish	1	healthy food	1647
+fruit	quick dish	1	healthy food	1069
+wheat	critical market	1	cereal	1349
+wheat	critical market	1	crop	3132
+basil	medicinal and aromatic plant	1	herb	2090
+cumin	medicinal and aromatic plant	1	spice	1006
+antibiotic	anti bacterial agent	1	medication	1777
+gas	specialised service	1	utility	1596
+cinnamon	simple and natural ingredient	1	spice	2572
+cotton	damaging crop	1	fabric	1046
+kidney	soft target	1	organ	3011
+water	soft target	1	fluid	2506
+social worker	family professional	1	professional	1240
+teacher	family professional	1	professional	1272
+air	home health product	1	fluid	1128
+cotton	synthetic fabric	1	crop	1998
+mobile phone	basic safeguard	1	mobile device	1009
+ibuprofen	antioxidant drug	1	medication	1000
+wedding	lifecycle	1	occasion	3480
+water	lifecycle	1	fluid	2506
+water	lifecycle	1	utility	2502
+accountant	parishioner	1	professional	1868
+teacher	parishioner	1	professional	1272
+lawyer	parishioner	1	professional	2857
+doctor	parishioner	1	professional	3334
+toy	social custom	1	small dog breed	1974
+iron	natural building material	1	nutrient	1390
+toy	cooperation	1	small dog breed	1974
+vitamin	favourable condition	1	nutrient	1395
+doctor	playing game	1	professional	3334
+smart phone	electronic asset	1	mobile device	1894
+wal mart	national merchant	1	retailer	1317
+aspirin	common household name	1	nsaid	1116
+aspirin	common household name	1	medication	1998
+silver	lipid based nanoparticle	1	preciou metal	1448
+wal mart	well known giant	1	retailer	1317
+toy	interesting technique	1	small dog breed	1974
+vitamin	concomitant treatment	1	nutrient	1395
+vitamin	specialty ingredient	1	nutrient	1395
+barley	specialty ingredient	1	crop	1069
+oil	specialty ingredient	1	fossil fuel	2811
+colorant	specialty ingredient	1	additive	1530
+rice	simple sugar food	1	crop	2171
+water	optional product	1	fluid	2506
+water	optional product	1	utility	2502
+antioxidant	proton donor	1	additive	3084
+iron	artistic influence band	1	nutrient	1390
+future	risk management technique	1	derivative	1164
+tomato	highvalue crop	1	crop	1562
+nurse	core user	1	professional	1048
+electricity	operational service	1	utility	1990
+anniversary	night	1	occasion	1274
+christmas	night	1	occasion	1053
+birthday	night	1	occasion	2879
+electricity	night	1	utility	1990
+water	daily necessary	1	fluid	2506
+water	daily necessary	1	utility	2502
+water	non-magnetic material	1	fluid	2506
+air	non-magnetic material	1	fluid	1128
+water	non-magnetic material	1	utility	2502
+brain	malignant tumor	1	organ	1692
+orange	air freshener	1	citrus fruit	2164
+grapefruit	air freshener	1	citrus fruit	1039
+lemon	air freshener	1	citrus fruit	1426
+filler	hot area	1	additive	1892
+fruit	food preservation method	1	healthy food	1069
+antibiotic	intracellular content	1	medication	1777
+toy	quiet activity	1	small dog breed	1974
+target	dream client	1	retailer	1285
+gender	basic difference	1	demographic factor	1507
+gender	basic difference	1	demographic information	1785
+towel	high quality linen	1	personal item	1397
+water	custom location	1	fluid	2506
+water	custom location	1	utility	2502
+spinach	garden item	1	leafy green	1090
+cabbage	garden item	1	cruciferous vegetable	1689
+router	communication infrastructure device	1	network device	1163
+maize	plant model system	1	crop	2449
+rice	plant model system	1	crop	2171
+address	instrumental purpose	1	personal datum	1249
+corn	dietary indiscretion	1	crop	3243
+aspirin	zinc rich food	1	nsaid	1116
+ibuprofen	zinc rich food	1	nsaid	2243
+aspirin	zinc rich food	1	medication	1998
+ibuprofen	zinc rich food	1	medication	1000
+towel	fitness item	1	personal item	1397
+yoga	professional group	1	relaxation technique	1919
+birthday	lovely gift	1	occasion	2879
+fruit	lovely gift	1	healthy food	1069
+target	big box user	1	retailer	1285
+wal mart	big box user	1	retailer	1317
+fruit	corrugated packaging product	1	healthy food	1069
+cotton	input material	1	fabric	1046
+vitamin	input material	1	nutrient	1395
+rice	input material	1	crop	2171
+corn	input material	1	crop	3243
+cotton	input material	1	crop	1998
+electricity	undergraduate and graduate course	1	utility	1990
+gender	simple fact	1	demographic characteristic	1337
+tablet	vitamin preparation	1	mobile device	2895
+wedding	photography project	1	occasion	3480
+pdas	wireless input device	1	mobile device	1027
+toy	valuable personal item	1	small dog breed	1974
+antihistamine	standard remedy	1	medication	1328
+water	soil degradation process	1	fluid	2506
+water	soil degradation process	1	utility	2502
+smart phone	product donation	1	mobile device	1894
+tablet	product donation	1	mobile device	2895
+accountant	self-employed individual	1	professional	1868
+oil	saturated fat	1	fossil fuel	2811
+lubricant	tableting aid	1	additive	1424
+meditation	simple therapy	1	relaxation technique	2166
+gold	classic style	1	preciou metal	2320
+oil	routine preventative maintenance	1	fossil fuel	2811
+address	unrelated entity	1	personal datum	1249
+gas	emerging trend	1	utility	1596
+age	entry requirement	1	demographic factor	2541
+age	entry requirement	1	demographic information	2433
+antibiotic	dermatologist	1	medication	1777
+tomato	mexican ingredient	1	crop	1562
+corn	mexican ingredient	1	crop	3243
+bean	crop rotation	1	crop	1213
+platinum	attractive alternative	1	preciou metal	1172
+silver	attractive alternative	1	preciou metal	1448
+corn	attractive alternative	1	crop	3243
+clove	indian herbal remedy	1	spice	1359
+ginger	indian herbal remedy	1	spice	1528
+turmeric	indian herbal remedy	1	spice	1056
+gas	waste byproduct	1	utility	1596
+age	wellestablished risk factor	1	demographic information	2433
+antihistamine	traditional medical treatment	1	medication	1328
+water	spicy food	1	fluid	2506
+water	spicy food	1	utility	2502
+nausea	spicy food	1	gastrointestinal symptom	1229
+teacher	prominent intellectual	1	professional	1272
+fruit	small prey item	1	healthy food	1069
+wheat	short day plant	1	cereal	1349
+wheat	short day plant	1	crop	3132
+soybean	short day plant	1	crop	1589
+age	unusual finding	1	demographic factor	2541
+age	unusual finding	1	demographic information	2433
+silk	tactile element	1	fabric	1076
+tomato	place tall plant	1	crop	1562
+corn	place tall plant	1	crop	3243
+nurse	professional resource	1	professional	1048
+accountant	professional resource	1	professional	1868
+silver	sexy color	1	preciou metal	1448
+brain	self organizing system	1	organ	1692
+silver	national award	1	preciou metal	1448
+electricity	production field	1	utility	1990
+teacher	transition	1	professional	1272
+nurse	transition	1	professional	1048
+oil	fat based product	1	fossil fuel	2811
+grapefruit	azole antifungal drug	1	citrus fruit	1039
+water	representative compound	1	utility	2502
+cotton	agricultural residue	1	fabric	1046
+target	interactive game	1	retailer	1285
+yoga	interactive game	1	relaxation technique	1919
+teacher	crucial witness	1	professional	1272
+age	great information	1	demographic factor	2541
+age	great information	1	demographic information	2433
+filing	typical clerical duty	1	clerical duty	1708
+teacher	feminine role	1	professional	1272
+brain	regular activity	1	organ	1692
+water	green asset	1	fluid	2506
+water	green asset	1	utility	2502
+birthday	party theme	1	occasion	2879
+air	heat exchange medium	1	fluid	1128
+gas	heat exchange medium	1	utility	1596
+age	corollary information	1	demographic factor	2541
+age	corollary information	1	demographic information	2433
+water	exposure source	1	fluid	2506
+water	exposure source	1	utility	2502
+age	light damage	1	demographic factor	2541
+age	light damage	1	demographic information	2433
+stabilizer	conventional inactive or inert ingredient	1	additive	1980
+wedding	photo assignment	1	occasion	3480
+teacher	outside agent	1	professional	1272
+wedding	regular promotion	1	occasion	3480
+doctor	experienced person	1	professional	3334
+social worker	experienced person	1	professional	1240
+engineer	experienced person	1	professional	1186
+name	basic essential	1	personal datum	1774
+ginger	biographer	1	spice	1528
+wal mart	participating store	1	retailer	1317
+nitrogen	complex element	1	nutrient	3047
+nurse	allied health profession	1	professional	1048
+toy	nice extra touch	1	small dog breed	1974
+electricity	infrastructural component	1	utility	1990
+nausea	treatable condition	1	gastrointestinal symptom	1229
+age	executive s individual attribute	1	demographic factor	2541
+name	tell-tale sign	1	personal datum	1774
+facebook	metric	1	social medium outlet	1024
+pigment	inorganic and organic chemical	1	additive	2187
+dye	inorganic and organic chemical	1	additive	1133
+gas	high value resource	1	utility	1596
+fruit	drawing object	1	healthy food	1069
+brain	labor intensive social technology	1	organ	1692
+meditation	labor intensive social technology	1	relaxation technique	2166
+pdas	ubiquitous environment	1	mobile device	1027
+smart phone	ubiquitous environment	1	mobile device	1894
+economic	exeption	1	discipline	1193
+gold	cathode	1	preciou metal	2320
+silver	cathode	1	preciou metal	1448
+toy	environmental surface	1	small dog breed	1974
+oil	natural organic matter	1	fossil fuel	2811
+air	auxiliary component	1	fluid	1128
+engineer	trained individual	1	professional	1186
+name	printed datum	1	personal datum	1774
+address	printed datum	1	personal datum	1249
+directory	printed datum	1	secondary source	1148
+bean	healthy vegetable fat	1	crop	1213
+corn	healthy vegetable fat	1	crop	3243
+stabilizer	chemical preparation	1	additive	1980
+christmas	family meeting	1	occasion	1053
+coal	dirty job	1	fossil fuel	3813
+anniversary	surrounding event	1	occasion	1274
+wedding	surrounding event	1	occasion	3480
+age	unforeseen reason	1	demographic factor	2541
+age	unforeseen reason	1	demographic information	2433
+address	back up material	1	personal datum	1249
+calcium	nutritional condition	1	nutrient	1618
+accountant	external support	1	professional	1868
+lawyer	external support	1	professional	2857
+cotton	tropical or subtropical plant	1	fabric	1046
+tomato	tropical or subtropical plant	1	crop	1562
+maize	tropical or subtropical plant	1	crop	2449
+soybean	tropical or subtropical plant	1	crop	1589
+rice	tropical or subtropical plant	1	crop	2171
+cotton	tropical or subtropical plant	1	crop	1998
+teacher	positional leader	1	professional	1272
+alberta	prestigious ballet school	1	province	1021
+wheat	statutory authority	1	cereal	1349
+wheat	statutory authority	1	crop	3132
+water	statutory authority	1	fluid	2506
+gas	statutory authority	1	utility	1596
+water	statutory authority	1	utility	2502
+target	anatomic change	1	retailer	1285
+age	ators	1	demographic factor	2541
+age	ators	1	demographic information	2433
+dog	daily routine	1	pet	2166
+dog	daily routine	1	domestic animal	1039
+electricity	domestic expense	1	utility	1990
+dog	complex disease	1	pet	2166
+dog	complex disease	1	domestic animal	1039
+aspirin	non-prescription product	1	nsaid	1116
+aspirin	non-prescription product	1	medication	1998
+ontario	network vendor	1	province	1408
+oil	high technology sector	1	fossil fuel	2811
+vegetable	common sense practice	1	healthy food	1647
+anthropology	forensic scientist	1	discipline	1020
+engineer	forensic scientist	1	professional	1186
+gas	hazardous sector	1	utility	1596
+wheat	sulphur-containing food	1	cereal	1349
+water	indirect environmental effect	1	fluid	2506
+water	indirect environmental effect	1	utility	2502
+orange	small county	1	citrus fruit	2164
+air	environmental destruction	1	fluid	1128
+anniversary	transitional time	1	occasion	1274
+birthday	transitional time	1	occasion	2879
+corn	potential commodity	1	crop	3243
+sorghum	potential commodity	1	crop	1066
+gender	physiological heredity characteristic	1	demographic characteristic	1337
+gender	physiological heredity characteristic	1	demographic factor	1507
+water	critical operation	1	fluid	2506
+water	critical operation	1	utility	2502
+tetracycline	natural health product	1	antibiotic	1722
+oil	natural health product	1	fossil fuel	2811
+pdas	portable electronic system	1	mobile device	1027
+nurse	active verb	1	professional	1048
+nitrogen	soft nucleophile	1	nutrient	3047
+phosphorus	soft nucleophile	1	nutrient	2326
+social worker	nonmedical personnel	1	professional	1240
+nurse	nonmedical personnel	1	professional	1048
+wal mart	traditional retail outlet	1	retailer	1317
+lawyer	high level executive	1	professional	2857
+wal mart	retail centre	1	retailer	1317
+address	institutional information	1	personal datum	1249
+ginger	blood thinner	1	spice	1528
+coal	private industry group	1	fossil fuel	3813
+fruit	delicious filling	1	healthy food	1069
+psychology	short answer	1	discipline	1605
+cotton	edible seed	1	fabric	1046
+soybean	edible seed	1	crop	1589
+cotton	edible seed	1	crop	1998
+barley	edible seed	1	crop	1069
+corn	edible seed	1	crop	3243
+iron	household surface	1	nutrient	1390
+st. jude children's research hospital	local and national organization	1	children's charity	1068
+name	fileds	1	personal datum	1774
+hydrogen peroxide	home treatment	1	reactive oxygen specie	1677
+address	implementation concept	1	personal datum	1249
+rice	celebratory item	1	crop	2171
+wedding	fluff	1	occasion	3480
+oil	environmental aspect	1	fossil fuel	2811
+gas	environmental aspect	1	utility	1596
+birthday	theme s	1	occasion	2879
+wedding	theme s	1	occasion	3480
+christmas	theme s	1	occasion	1053
+rice	soaking grain	1	crop	2171
+gender	potential inhibitor	1	demographic characteristic	1337
+gender	potential inhibitor	1	demographic factor	1507
+gender	potential inhibitor	1	demographic information	1785
+meditation	introspective activity	1	relaxation technique	2166
+tablet	technological platform	1	mobile device	2895
+age	reference factor	1	demographic factor	2541
+age	reference factor	1	demographic information	2433
+water	core infrastructure system	1	fluid	2506
+water	core infrastructure system	1	utility	2502
+name	basic communication skill	1	personal datum	1774
+router	basic communication skill	1	network device	1163
+gold	league	1	noble metal	1116
+gold	league	1	preciou metal	2320
+brain	stony variety	1	organ	1692
+gas	ocean related industry	1	utility	1596
+deep breathing	behavioral skill	1	relaxation technique	1337
+lemon	all-natural ingredient	1	citrus fruit	1426
+orange	all-natural ingredient	1	citrus fruit	2164
+oil	homemade treatment	1	fossil fuel	2811
+calcium	mineral specie	1	nutrient	1618
+water	mechanical aid	1	fluid	2506
+wal mart	big retail outlet	1	retailer	1317
+orange	member company	1	citrus fruit	2164
+basil	strange creature	1	herb	2090
+nurse	strange creature	1	professional	1048
+option	trading cost	1	derivative	1161
+coal	resource endowment	1	fossil fuel	3813
+toy	small wooden item	1	small dog breed	1974
+lawyer	profesionals	1	professional	2857
+accountant	profesionals	1	professional	1868
+gas	method of sterilization	1	utility	1596
+vegetable	vegan staple	1	healthy food	1647
+water	unpleasant surprise	1	fluid	2506
+water	unpleasant surprise	1	utility	2502
+electricity	operational contract	1	utility	1990
+carrot	shortcut	1	root vegetable	1284
+lubricant	shortcut	1	additive	1424
+oil	ecological damage	1	fossil fuel	2811
+soybean	mono-unsaturated oil	1	crop	1589
+vegetable	mono-unsaturated oil	1	healthy food	1647
+water	civil engineering project	1	fluid	2506
+antibiotic	long acting barbiturate	1	medication	1777
+antidepressant	long acting barbiturate	1	medication	2028
+cat	sketch	1	pet	1939
+rice	standard dish	1	crop	2171
+gas	roadside assistance	1	utility	1596
+antibiotic	biological factor	1	medication	1777
+anthropology	academic curriculum	1	discipline	1020
+wedding	developmental milestone	1	occasion	3480
+potassium	viability parameter	1	nutrient	1359
+steroid	western drug	1	medication	1291
+antibiotic	western drug	1	medication	1777
+gender	dialog box	1	demographic characteristic	1337
+smart phone	latest tool	1	mobile device	1894
+water	aspect of civil engineering	1	fluid	2506
+water	aspect of civil engineering	1	utility	2502
+oil	complex project	1	fossil fuel	2811
+water	complex project	1	fluid	2506
+water	complex project	1	utility	2502
+wheat	super foods	1	cereal	1349
+wheat	super foods	1	crop	3132
+towel	game accessory	1	personal item	1397
+age	hedonic factor	1	demographic factor	2541
+age	hedonic factor	1	demographic information	2433
+bean	modest meal	1	crop	1213
+coal	exhibit theme	1	fossil fuel	3813
+gas	large industry sector	1	utility	1596
+vegetable	degradable waste	1	healthy food	1647
+fruit	degradable waste	1	healthy food	1069
+rice	guest favorite	1	crop	2171
+oil	pressure group	1	fossil fuel	2811
+coal	food material	1	fossil fuel	3813
+oil	food material	1	fossil fuel	2811
+stabilizer	food material	1	additive	1980
+bean	fiber-rich variety	1	crop	1213
+aspirin	antifungal diet	1	medication	1998
+ibuprofen	antifungal diet	1	medication	1000
+name	custom graphic	1	personal datum	1774
+name	datum member	1	personal datum	1774
+wedding	mind event	1	occasion	3480
+silk	embroidered fabric	1	fabric	1076
+cotton	embroidered fabric	1	fabric	1046
+cotton	embroidered fabric	1	crop	1998
+lemon	customers favorite	1	citrus fruit	1426
+facebook	built in service	1	social medium outlet	1024
+gold	art form	1	noble metal	1116
+gold	art form	1	preciou metal	2320
+wedding	celebration merchandise	1	occasion	3480
+corn	agro residue	1	crop	3243
+spinach	signature pizza combination	1	leafy green	1090
+wedding	personal website	1	occasion	3480
+spinach	dog friendly ingredient	1	leafy green	1090
+wheat	gentle natural ingredient	1	cereal	1349
+wheat	gentle natural ingredient	1	crop	3132
+rosemary	gentle natural ingredient	1	herb	1974
+corn	everyday vegetable	1	crop	3243
+mosquito	nasty bug	1	insect	1469
+mobile phone	high-priced item	1	mobile device	1009
+water	24 hour service	1	fluid	2506
+water	24 hour service	1	utility	2502
+toy	embodiment	1	small dog breed	1974
+carrot	embodiment	1	root vegetable	1284
+christmas	specialty fabric	1	occasion	1053
+cotton	specialty fabric	1	crop	1998
+birthday	personal demographic datum	1	occasion	2879
+brain	exceptional case	1	organ	1692
+dog	nonlethal weapon	1	pet	2166
+dog	nonlethal weapon	1	domestic animal	1039
+gender	demographic characteristic	1337	in game option	1
+age	demographic characteristic	2579	raw material	1
+gender	demographic characteristic	1337	vital factor	1
+gender	demographic characteristic	1337	node datum	1
+age	demographic characteristic	2579	node datum	1
+gender	demographic characteristic	1337	specialist topic	1
+gender	demographic characteristic	1337	social hierarchy	1
+gender	demographic characteristic	1337	syntactic information	1
+gender	demographic characteristic	1337	aspect of water management	1
+gender	demographic characteristic	1337	social risk	1
+gender	demographic characteristic	1337	relative issue	1
+gender	demographic characteristic	1337	upstream factor	1
+gender	demographic characteristic	1337	generic question	1
+age	demographic characteristic	2579	tip	1
+gender	demographic characteristic	1337	yoga position	1
+gender	demographic characteristic	1337	statistical analysis categorical variable	1
+gender	demographic characteristic	1337	single identifier	1
+age	demographic characteristic	2579	key value	1
+gender	demographic characteristic	1337	simple fact	1
+gender	demographic characteristic	1337	software part	1
+gender	demographic characteristic	1337	physiological heredity characteristic	1
+gender	demographic characteristic	1337	objective attribute	1
+gender	demographic characteristic	1337	potential inhibitor	1
+gender	demographic characteristic	1337	dialog box	1
+gender	demographic characteristic	1337	technical field	1
+age	demographic characteristic	2579	simple item	1
+gender	demographic characteristic	1337	cultural construct	1
+gender	demographic characteristic	1337	user related information	1
+age	demographic characteristic	2579	protein	1
+gender	demographic characteristic	1337	cultural value	1
+age	demographic characteristic	2579	cultural value	1
+gender	demographic characteristic	1337	human property	1
+gender	demographic characteristic	1337	cultural environment	1
+gender	demographic characteristic	1337	liberal agenda	1
+gender	demographic characteristic	1337	form of domination	1
+gender	demographic characteristic	1337	visual characteristic	1
+gender	demographic characteristic	1337	activist group	1
+age	demographic characteristic	2579	scientific factor	1
+gender	demographic characteristic	1337	top ics	1
+gender	demographic characteristic	1337	biometric	1
+gender	demographic characteristic	1337	background issue	1
+gender	demographic characteristic	1337	account contextual factor	1
+gender	demographic characteristic	1337	power relation	1
+age	demographic characteristic	2579	traditional measure	1
+gender	demographic characteristic	1337	pioneering program	1
+gender	demographic characteristic	1337	motivation	1
+age	demographic characteristic	2579	motivation	1
+gender	demographic characteristic	1337	word character	1
+gender	demographic characteristic	1337	character feature	1
+gender	demographic characteristic	1337	sensitive attribute	1
+gender	demographic characteristic	1337	social and economic aspect	1
+gender	demographic characteristic	1337	person aspect	1
+gender	demographic characteristic	1337	employee record	1
+gender	demographic characteristic	1337	thematic subject	1
+gender	demographic characteristic	1337	cultural theme	1
+gender	demographic characteristic	1337	external measure	1
+gender	demographic characteristic	1337	vitals	1
+age	demographic characteristic	2579	serious problem	1
+age	demographic characteristic	2579	methodological aspect	1
+age	demographic characteristic	2579	aspect of life	1
+age	demographic characteristic	2579	email	1
+gender	demographic characteristic	1337	naturally issue	1
+gender	demographic characteristic	1337	tourist attraction	1
+gender	demographic characteristic	1337	employee trait	1
+gender	demographic characteristic	1337	field heading	1
+gender	demographic characteristic	1337	applicant datum	1
+gender	demographic characteristic	1337	family issue	1
+gender	demographic characteristic	1337	simple concept	1
+age	demographic characteristic	2579	standard characteristic	1
+gender	demographic characteristic	1337	seemingly unrelated topic	1
+gender	demographic characteristic	1337	advanced instrument	1
+gender	demographic characteristic	1337	deep issue	1
+gender	demographic characteristic	1337	aggregate measure	1
+gender	demographic characteristic	1337	work address issue	1
+gender	demographic characteristic	1337	physical distinction	1
+gender	demographic characteristic	1337	group dynamic	1
+gender	demographic characteristic	1337	international issue	1
+gender	demographic characteristic	1337	policy issue	1
+gender	demographic characteristic	1337	simple feature	1
+gender	demographic characteristic	1337	testament theme	1
+gender	demographic characteristic	1337	cultural matter	1
+gender	demographic characteristic	1337	exotic concept	1
+gender	demographic characteristic	1337	non economic concern	1
+gender	demographic characteristic	1337	non-economic variable	1
+age	demographic characteristic	2579	essential component	1
+age	demographic characteristic	2579	fun	1
+age	demographic characteristic	2579	moment	1
+age	demographic characteristic	2579	aggregate	1
+gender	demographic characteristic	1337	sectoral union	1
+gender	demographic characteristic	1337	irrelevant criterion	1
+gender	demographic characteristic	1337	cultural dynamic	1
+gender	demographic characteristic	1337	mitigating circumstance	1
+age	demographic characteristic	2579	ethical consideration	1
+age	demographic characteristic	2579	psycho logical factor	1
+gender	demographic characteristic	1337	human theme	1
+gender	demographic characteristic	1337	standpoint theorist	1
+gender	demographic characteristic	1337	convention	1
+age	demographic characteristic	2579	convention	1
+gender	demographic characteristic	1337	real-world constraint	1
+gender	demographic characteristic	1337	substantive area	1
+age	demographic characteristic	2579	pigmentation change	1
+gender	demographic characteristic	1337	theoretical category	1
+gender	demographic characteristic	1337	linguistic element	1
+gender	demographic characteristic	1337	sampling criterion	1
+gender	demographic characteristic	1337	foundation	1
+gender	demographic characteristic	1337	laser etched datum	1
+gender	demographic characteristic	1337	conclusion many factor	1
+gender	demographic characteristic	1337	critical theory	1
+gender	demographic characteristic	1337	argument	1
+age	demographic characteristic	2579	argument	1
+gender	demographic characteristic	1337	linguistic issue	1
+gender	demographic characteristic	1337	population group	1
+gender	demographic characteristic	1337	school information	1
+gender	demographic characteristic	1337	information type	1
+gender	demographic characteristic	1337	touchy subject	1
+gender	demographic characteristic	1337	power factor	1
+age	demographic characteristic	2579	medication	1
+gender	demographic characteristic	1337	fixed property	1
+gender	demographic characteristic	1337	core dimension	1
+gender	demographic characteristic	1337	traditional social category	1
+gender	demographic characteristic	1337	area issue	1
+gender	demographic characteristic	1337	first party datum	1
+age	demographic characteristic	2579	complex concept	1
+gender	demographic characteristic	1337	personal identification information	1
+gender	demographic characteristic	1337	one factor	1
+gender	demographic characteristic	1337	clinical and laboratory finding	1
+gender	demographic characteristic	1337	cultural component	1
+gender	demographic characteristic	1337	thematic sector	1
+gender	demographic characteristic	1337	structural disadvantage	1
+gender	demographic characteristic	1337	broad division	1
+gender	demographic characteristic	1337	specialization	1
+gender	demographic characteristic	1337	hard datum	1
+gender	demographic characteristic	1337	sometimes issue	1
+age	demographic characteristic	2579	report	1
+gender	demographic characteristic	1337	ordinary matter	1
+gender	demographic characteristic	1337	aesthetic	1
+gender	demographic characteristic	1337	infant outcome	1
+gender	demographic characteristic	1337	institutional discourse	1
+gender	demographic characteristic	1337	studying factor	1
+age	demographic characteristic	2579	herb	1
+age	demographic characteristic	2579	building attribute	1
+gender	demographic characteristic	1337	crucial area	1
+gender	demographic characteristic	1337	macro level factor	1
+gender	demographic characteristic	1337	global development issue	1
+gender	demographic characteristic	1337	social theme	1
+gender	demographic characteristic	1337	aspect of society	1
+gender	demographic characteristic	1337	thematic initiative	1
+gender	demographic characteristic	1337	cross-disciplinary topic	1
+gender	demographic characteristic	1337	long standing issue	1
+gender	demographic characteristic	1337	teachers personal characteristic	1
+gender	demographic characteristic	1337	outcome	1
+gender	demographic characteristic	1337	design factor	1
+age	demographic characteristic	2579	design factor	1
+gender	demographic characteristic	1337	development model	1
+age	demographic characteristic	2579	legislation	1
+gender	demographic characteristic	1337	birth related factor	1
+gender	demographic characteristic	1337	heavy theme	1
+gender	demographic characteristic	1337	modern idea	1
+gender	demographic characteristic	1337	product attribute	1
+gender	demographic characteristic	1337	matching factor	1
+gender	demographic characteristic	1337	danger	1
+gender	demographic characteristic	1337	utility	1
+gender	demographic characteristic	1337	member datum	1
+gender	demographic characteristic	1337	student issue	1
+age	demographic characteristic	2579	social and psychological factor	1
+gender	demographic characteristic	1337	custom	1
+gender	demographic characteristic	1337	traveler information	1
+gender	demographic characteristic	1337	minor way	1
+gender	demographic characteristic	1337	personality variable	1
+age	demographic characteristic	2579	mark	1
+gender	demographic characteristic	1337	student difference	1
+gender	demographic characteristic	1337	movement	1
+age	demographic characteristic	2579	movement	1
+age	demographic characteristic	2579	response	1
+age	demographic characteristic	2579	essential element	1
+gender	demographic characteristic	1337	evidence	1
+gender	demographic characteristic	1337	heme	1
+gender	demographic characteristic	1337	long term concern	1
+oil	geopolitical consideration	1	fossil fuel	2811
+ontario	university	1	province	1408
+smartphone	great device	1	mobile device	3700
+name	medallion	1	personal datum	1774
+toy	entertainment	1	small dog breed	1974
+water	regional agency	1	fluid	2506
+water	regional agency	1	utility	2502
+clove	product code	1	spice	1359
+cinnamon	product code	1	spice	2572
+rice	healthy drink	1	crop	2171
+carrot	healthy drink	1	root vegetable	1284
+ginger	healthy drink	1	spice	1528
+accountant	modern occupation	1	professional	1868
+water	mild product	1	fluid	2506
+water	mild product	1	utility	2502
+gas	motive fluid	1	utility	1596
+tablet	small project	1	mobile device	2895
+house renovation	small project	1	small monetary expense	1404
+home renovation	small project	1	small monetary expense	1343
+cotton	fairtrade product	1	fabric	1046
+barley	green powder	1	crop	1069
+bean	water rich food	1	crop	1213
+parsley	popular species	1	herb	1435
+rosemary	popular species	1	herb	1974
+magnesium	lightweight high strength material	1	nutrient	1211
+gender	subject related factor	1	demographic factor	1507
+gender	subject related factor	1	demographic information	1785
+engineer	transient worker	1	professional	1186
+oil	basic vehicle maintenance	1	fossil fuel	2811
+water	basic vehicle maintenance	1	fluid	2506
+water	basic vehicle maintenance	1	utility	2502
+gender	technical field	1	demographic characteristic	1337
+address	manufacturer information	1	personal datum	1249
+maize	tobacco	1	crop	2449
+water	degradation product	1	utility	2502
+vitamin	chronic trouble	1	nutrient	1395
+antibiotic	comprehensive tool	1	medication	1777
+target	established store	1	retailer	1285
+vegetable	household application	1	healthy food	1647
+name	visible symbol	1	personal datum	1774
+oil	visible symbol	1	fossil fuel	2811
+water	visible symbol	1	fluid	2506
+water	visible symbol	1	utility	2502
+option	key	1	derivative	1161
+directory	key	1	secondary source	1148
+dye	monocyclic aromatic hydrocarbon	1	additive	1133
+tomato	biological stain	1	crop	1562
+toy	diversional activity	1	small dog breed	1974
+iron	best grade raw material	1	nutrient	1390
+target	complex pattern	1	retailer	1285
+thyme	evergreen groundcover	1	herb	1828
+option	interesting subject	1	derivative	1161
+brain	controller	1	organ	1692
+toy	single item	1	small dog breed	1974
+silver	single item	1	preciou metal	1448
+towel	pet care item	1	personal item	1397
+water	speed control device	1	fluid	2506
+water	speed control device	1	utility	2502
+mobile phone	surface	1	mobile device	1009
+tablet	surface	1	mobile device	2895
+protein	surface	1	nutrient	1349
+water	fluoride product	1	utility	2502
+cotton	woody-stemmed plant	1	fabric	1046
+cotton	woody-stemmed plant	1	crop	1998
+sage	woody-stemmed plant	1	herb	1110
+thyme	woody-stemmed plant	1	herb	1828

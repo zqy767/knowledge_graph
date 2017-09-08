@@ -1,0 +1,702 @@
+activity	animal	0.0078125
+activity	area	0.046875
+activity	artist	0.0
+activity	author	0.0078125
+activity	bird	0.0
+activity	business	0.015625
+activity	city	0.0078125
+activity	company	0.0078125
+activity	enterprise	0.0078125
+activity	environment	0.0078125
+activity	equipment	0.03125
+activity	fish	0.0
+activity	food	0.0078125
+activity	fruit	0.0
+activity	game	0.015625
+activity	herb	0.0078125
+activity	illness	0.0
+activity	instrument	0.0078125
+activity	job	0.0078125
+activity	local business	0.015625
+activity	man	0.0
+activity	medicine	0.0
+activity	musician	0.0
+activity	plant	0.0078125
+activity	professional service	0.0078125
+activity	recipe	0.0
+activity	service	0.0546875
+activity	skill	0.046875
+activity	specie	0.0
+activity	species	0.0
+activity	sport	0.0234375
+activity	symptom	0.0
+activity	tree	0.0
+activity	vegetable	0.0078125
+activity	vehicle	0.0078125
+activity	woman	0.0
+
+animal	area	0.0078125
+animal	artist	0.0
+animal	author	0.0
+animal	bird	0.0390625
+animal	business	0.0
+animal	city	0.0
+animal	company	0.0
+animal	enterprise	0.0078125
+animal	environment	0.015625
+animal	equipment	0.0078125
+animal	fish	0.03125
+animal	food	0.0078125
+animal	fruit	0.0078125
+animal	game	0.0
+animal	herb	0.0
+animal	illness	0.0078125
+animal	instrument	0.0078125
+animal	job	0.0
+animal	local business	0.0
+animal	man	0.0
+animal	medicine	0.0
+animal	musician	0.0078125
+animal	plant	0.0
+animal	professional service	0.0
+animal	recipe	0.0
+animal	service	0.0
+animal	skill	0.0078125
+animal	specie	0.1015625
+animal	species	0.0859375
+animal	sport	0.0078125
+animal	symptom	0.0078125
+animal	tree	0.0
+animal	vegetable	0.0078125
+animal	vehicle	0.0
+animal	woman	0.0
+
+area	artist	0.0078125
+area	author	0.0
+area	bird	0.0078125
+area	business	0.03125
+area	city	0.0234375
+area	company	0.0
+area	enterprise	0.0
+area	environment	0.0078125
+area	equipment	0.015625
+area	fish	0.0
+area	food	0.0
+area	fruit	0.0
+area	game	0.0078125
+area	herb	0.0
+area	illness	0.0
+area	instrument	0.0078125
+area	job	0.0078125
+area	local business	0.0078125
+area	man	0.0
+area	medicine	0.0
+area	musician	0.0
+area	plant	0.0
+area	professional service	0.0078125
+area	recipe	0.0
+area	service	0.046875
+area	skill	0.0234375
+area	specie	0.0
+area	species	0.0078125
+area	sport	0.0
+area	symptom	0.0078125
+area	tree	0.0
+area	vegetable	0.0078125
+area	vehicle	0.0078125
+area	woman	0.0
+
+artist	author	0.0078125
+artist	bird	0.0
+artist	business	0.0
+artist	city	0.015625
+artist	company	0.0078125
+artist	enterprise	0.0
+artist	environment	0.0
+artist	equipment	0.0
+artist	fish	0.0
+artist	food	0.0
+artist	fruit	0.0
+artist	game	0.0
+artist	herb	0.0
+artist	illness	0.0
+artist	instrument	0.0
+artist	job	0.0
+artist	local business	0.0078125
+artist	man	0.0
+artist	medicine	0.0
+artist	musician	0.0546875
+artist	plant	0.0
+artist	professional service	0.0
+artist	recipe	0.0
+artist	service	0.0
+artist	skill	0.0
+artist	specie	0.0
+artist	species	0.0
+artist	sport	0.0
+artist	symptom	0.0
+artist	tree	0.0
+artist	vegetable	0.0
+artist	vehicle	0.0078125
+artist	woman	0.015625
+
+author	bird	0.0078125
+author	business	0.0078125
+author	city	0.0078125
+author	company	0.0078125
+author	enterprise	0.0078125
+author	environment	0.0
+author	equipment	0.0078125
+author	fish	0.0
+author	food	0.0078125
+author	fruit	0.0
+author	game	0.0
+author	herb	0.015625
+author	illness	0.0
+author	instrument	0.0
+author	job	0.0
+author	local business	0.0
+author	man	0.015625
+author	medicine	0.0
+author	musician	0.0
+author	plant	0.0078125
+author	professional service	0.0
+author	recipe	0.0
+author	service	0.0078125
+author	skill	0.0
+author	specie	0.0
+author	species	0.0
+author	sport	0.0
+author	symptom	0.0
+author	tree	0.0
+author	vegetable	0.0
+author	vehicle	0.0
+author	woman	0.015625
+
+bird	business	0.0
+bird	city	0.0
+bird	company	0.0
+bird	enterprise	0.0
+bird	environment	0.0
+bird	equipment	0.0
+bird	fish	0.0
+bird	food	0.0
+bird	fruit	0.0
+bird	game	0.0
+bird	herb	0.0078125
+bird	illness	0.0
+bird	instrument	0.0
+bird	job	0.0
+bird	local business	0.0
+bird	man	0.0
+bird	medicine	0.0
+bird	musician	0.0
+bird	plant	0.0
+bird	professional service	0.0
+bird	recipe	0.0
+bird	service	0.0
+bird	skill	0.0
+bird	specie	0.0703125
+bird	species	0.0703125
+bird	sport	0.0
+bird	symptom	0.0
+bird	tree	0.0
+bird	vegetable	0.0
+bird	vehicle	0.0
+bird	woman	0.0
+
+business	city	0.0078125
+business	company	0.03125
+business	enterprise	0.0234375
+business	environment	0.03125
+business	equipment	0.015625
+business	fish	0.0
+business	food	0.0078125
+business	fruit	0.0
+business	game	0.0
+business	herb	0.0
+business	illness	0.0
+business	instrument	0.0
+business	job	0.0390625
+business	local business	0.078125
+business	man	0.0078125
+business	medicine	0.0078125
+business	musician	0.0
+business	plant	0.0
+business	professional service	0.03125
+business	recipe	0.0078125
+business	service	0.0390625
+business	skill	0.0234375
+business	specie	0.0078125
+business	species	0.0
+business	sport	0.015625
+business	symptom	0.0
+business	tree	0.0
+business	vegetable	0.0
+business	vehicle	0.0078125
+business	woman	0.0
+
+city	company	0.0078125
+city	enterprise	0.0078125
+city	environment	0.015625
+city	equipment	0.0
+city	fish	0.0
+city	food	0.0078125
+city	fruit	0.0
+city	game	0.0
+city	herb	0.0
+city	illness	0.0
+city	instrument	0.015625
+city	job	0.015625
+city	local business	0.015625
+city	man	0.0078125
+city	medicine	0.0
+city	musician	0.0
+city	plant	0.0
+city	professional service	0.0
+city	recipe	0.015625
+city	service	0.015625
+city	skill	0.0
+city	specie	0.015625
+city	species	0.0078125
+city	sport	0.0078125
+city	symptom	0.0
+city	tree	0.0
+city	vegetable	0.0
+city	vehicle	0.0
+city	woman	0.0078125
+
+company	enterprise	0.0078125
+company	environment	0.0
+company	equipment	0.0078125
+company	fish	0.0
+company	food	0.0078125
+company	fruit	0.0
+company	game	0.0078125
+company	herb	0.0078125
+company	illness	0.0
+company	instrument	0.0
+company	job	0.0078125
+company	local business	0.015625
+company	man	0.0
+company	medicine	0.0078125
+company	musician	0.0
+company	plant	0.0078125
+company	professional service	0.0
+company	recipe	0.0
+company	service	0.0234375
+company	skill	0.0
+company	specie	0.0
+company	species	0.0
+company	sport	0.0078125
+company	symptom	0.0
+company	tree	0.0
+company	vegetable	0.0
+company	vehicle	0.0
+company	woman	0.0
+
+enterprise	environment	0.0078125
+enterprise	equipment	0.0078125
+enterprise	fish	0.0078125
+enterprise	food	0.015625
+enterprise	fruit	0.0234375
+enterprise	game	0.0
+enterprise	herb	0.015625
+enterprise	illness	0.0
+enterprise	instrument	0.0234375
+enterprise	job	0.0078125
+enterprise	local business	0.0078125
+enterprise	man	0.0078125
+enterprise	medicine	0.0
+enterprise	musician	0.0
+enterprise	plant	0.0078125
+enterprise	professional service	0.0
+enterprise	recipe	0.0078125
+enterprise	service	0.0078125
+enterprise	skill	0.0078125
+enterprise	specie	0.015625
+enterprise	species	0.0078125
+enterprise	sport	0.015625
+enterprise	symptom	0.0
+enterprise	tree	0.0
+enterprise	vegetable	0.0078125
+enterprise	vehicle	0.0
+enterprise	woman	0.0
+
+environment	equipment	0.0078125
+environment	fish	0.015625
+environment	food	0.0078125
+environment	fruit	0.0
+environment	game	0.0078125
+environment	herb	0.0
+environment	illness	0.0
+environment	instrument	0.0078125
+environment	job	0.0546875
+environment	local business	0.015625
+environment	man	0.0
+environment	medicine	0.0078125
+environment	musician	0.0
+environment	plant	0.0078125
+environment	professional service	0.0078125
+environment	recipe	0.0078125
+environment	service	0.0078125
+environment	skill	0.0078125
+environment	specie	0.0078125
+environment	species	0.0
+environment	sport	0.0234375
+environment	symptom	0.0078125
+environment	tree	0.0
+environment	vegetable	0.0
+environment	vehicle	0.0078125
+environment	woman	0.0
+
+equipment	fish	0.0078125
+equipment	food	0.015625
+equipment	fruit	0.0
+equipment	game	0.0078125
+equipment	herb	0.015625
+equipment	illness	0.0
+equipment	instrument	0.0234375
+equipment	job	0.03125
+equipment	local business	0.0078125
+equipment	man	0.0
+equipment	medicine	0.0078125
+equipment	musician	0.0
+equipment	plant	0.0234375
+equipment	professional service	0.0078125
+equipment	recipe	0.0
+equipment	service	0.0234375
+equipment	skill	0.015625
+equipment	specie	0.0
+equipment	species	0.0
+equipment	sport	0.0
+equipment	symptom	0.015625
+equipment	tree	0.0
+equipment	vegetable	0.015625
+equipment	vehicle	0.015625
+equipment	woman	0.0
+
+fish	food	0.0078125
+fish	fruit	0.0078125
+fish	game	0.0
+fish	herb	0.0
+fish	illness	0.0
+fish	instrument	0.0078125
+fish	job	0.0078125
+fish	local business	0.0
+fish	man	0.0
+fish	medicine	0.0
+fish	musician	0.0
+fish	plant	0.0078125
+fish	professional service	0.0
+fish	recipe	0.0
+fish	service	0.0
+fish	skill	0.0
+fish	specie	0.0234375
+fish	species	0.03125
+fish	sport	0.0078125
+fish	symptom	0.0
+fish	tree	0.0
+fish	vegetable	0.0078125
+fish	vehicle	0.0
+fish	woman	0.0
+
+food	fruit	0.0390625
+food	game	0.0078125
+food	herb	0.03125
+food	illness	0.015625
+food	instrument	0.0
+food	job	0.0078125
+food	local business	0.0078125
+food	man	0.0
+food	medicine	0.0
+food	musician	0.0
+food	plant	0.0234375
+food	professional service	0.0
+food	recipe	0.03125
+food	service	0.03125
+food	skill	0.0
+food	specie	0.0234375
+food	species	0.0234375
+food	sport	0.0078125
+food	symptom	0.015625
+food	tree	0.0
+food	vegetable	0.03125
+food	vehicle	0.0
+food	woman	0.0
+
+fruit	game	0.0
+fruit	herb	0.046875
+fruit	illness	0.0078125
+fruit	instrument	0.0078125
+fruit	job	0.0
+fruit	local business	0.0
+fruit	man	0.0
+fruit	medicine	0.0078125
+fruit	musician	0.0
+fruit	plant	0.03125
+fruit	professional service	0.0
+fruit	recipe	0.0
+fruit	service	0.0
+fruit	skill	0.0078125
+fruit	specie	0.015625
+fruit	species	0.0078125
+fruit	sport	0.0078125
+fruit	symptom	0.0
+fruit	tree	0.0234375
+fruit	vegetable	0.0625
+fruit	vehicle	0.0078125
+fruit	woman	0.0078125
+
+game	herb	0.0
+game	illness	0.0
+game	instrument	0.0
+game	job	0.0078125
+game	local business	0.0
+game	man	0.0
+game	medicine	0.0
+game	musician	0.0
+game	plant	0.0
+game	professional service	0.0
+game	recipe	0.0
+game	service	0.0
+game	skill	0.0078125
+game	specie	0.0
+game	species	0.0
+game	sport	0.0234375
+game	symptom	0.0
+game	tree	0.0
+game	vegetable	0.0
+game	vehicle	0.0078125
+game	woman	0.0
+
+herb	illness	0.0
+herb	instrument	0.0
+herb	job	0.0
+herb	local business	0.0
+herb	man	0.0
+herb	medicine	0.0
+herb	musician	0.0
+herb	plant	0.078125
+herb	professional service	0.0
+herb	recipe	0.0078125
+herb	service	0.015625
+herb	skill	0.0
+herb	specie	0.0234375
+herb	species	0.015625
+herb	sport	0.0
+herb	symptom	0.0078125
+herb	tree	0.015625
+herb	vegetable	0.0390625
+herb	vehicle	0.0
+herb	woman	0.0078125
+
+illness	instrument	0.0078125
+illness	job	0.0
+illness	local business	0.0
+illness	man	0.0
+illness	medicine	0.0078125
+illness	musician	0.0
+illness	plant	0.0
+illness	professional service	0.0
+illness	recipe	0.0
+illness	service	0.0078125
+illness	skill	0.0
+illness	specie	0.0
+illness	species	0.0
+illness	sport	0.0
+illness	symptom	0.046875
+illness	tree	0.0
+illness	vegetable	0.0078125
+illness	vehicle	0.0
+illness	woman	0.0
+
+instrument	job	0.015625
+instrument	local business	0.0
+instrument	man	0.0
+instrument	medicine	0.0
+instrument	musician	0.0
+instrument	plant	0.0
+instrument	professional service	0.0078125
+instrument	recipe	0.0
+instrument	service	0.0078125
+instrument	skill	0.0
+instrument	specie	0.0078125
+instrument	species	0.0078125
+instrument	sport	0.0
+instrument	symptom	0.0078125
+instrument	tree	0.0
+instrument	vegetable	0.0
+instrument	vehicle	0.0078125
+instrument	woman	0.0
+
+job	local business	0.03125
+job	man	0.0
+job	medicine	0.0
+job	musician	0.0
+job	plant	0.0078125
+job	professional service	0.0546875
+job	recipe	0.0078125
+job	service	0.0234375
+job	skill	0.0390625
+job	specie	0.0078125
+job	species	0.0
+job	sport	0.015625
+job	symptom	0.0078125
+job	tree	0.0
+job	vegetable	0.0
+job	vehicle	0.0
+job	woman	0.0
+
+local business	man	0.0
+local business	medicine	0.0078125
+local business	musician	0.0
+local business	plant	0.0
+local business	professional service	0.0234375
+local business	recipe	0.0078125
+local business	service	0.015625
+local business	skill	0.015625
+local business	specie	0.0078125
+local business	species	0.0
+local business	sport	0.0078125
+local business	symptom	0.0
+local business	tree	0.0
+local business	vegetable	0.0
+local business	vehicle	0.0078125
+local business	woman	0.0
+
+man	medicine	0.0
+man	musician	0.0
+man	plant	0.0
+man	professional service	0.0
+man	recipe	0.0
+man	service	0.0
+man	skill	0.0
+man	specie	0.0
+man	species	0.0
+man	sport	0.0
+man	symptom	0.0
+man	tree	0.0
+man	vegetable	0.0
+man	vehicle	0.0
+man	woman	0.0
+
+medicine	musician	0.0
+medicine	plant	0.0
+medicine	professional service	0.0078125
+medicine	recipe	0.0
+medicine	service	0.0078125
+medicine	skill	0.0078125
+medicine	specie	0.0
+medicine	species	0.0078125
+medicine	sport	0.0
+medicine	symptom	0.0
+medicine	tree	0.0
+medicine	vegetable	0.0
+medicine	vehicle	0.0
+medicine	woman	0.0
+
+musician	plant	0.0
+musician	professional service	0.0
+musician	recipe	0.0
+musician	service	0.0
+musician	skill	0.0
+musician	specie	0.0
+musician	species	0.0
+musician	sport	0.0
+musician	symptom	0.0
+musician	tree	0.0
+musician	vegetable	0.0
+musician	vehicle	0.0
+musician	woman	0.0
+
+plant	professional service	0.0
+plant	recipe	0.015625
+plant	service	0.015625
+plant	skill	0.0
+plant	specie	0.0625
+plant	species	0.0390625
+plant	sport	0.0
+plant	symptom	0.0078125
+plant	tree	0.046875
+plant	vegetable	0.03125
+plant	vehicle	0.0
+plant	woman	0.0
+
+professional service	recipe	0.0
+professional service	service	0.015625
+professional service	skill	0.03125
+professional service	specie	0.0
+professional service	species	0.0
+professional service	sport	0.0078125
+professional service	symptom	0.0
+professional service	tree	0.0
+professional service	vegetable	0.0
+professional service	vehicle	0.0
+professional service	woman	0.0
+
+recipe	service	0.0
+recipe	skill	0.0
+recipe	specie	0.0078125
+recipe	species	0.0
+recipe	sport	0.0078125
+recipe	symptom	0.0
+recipe	tree	0.0078125
+recipe	vegetable	0.015625
+recipe	vehicle	0.0
+recipe	woman	0.0
+
+service	skill	0.03125
+service	specie	0.0078125
+service	species	0.0078125
+service	sport	0.0
+service	symptom	0.0078125
+service	tree	0.0
+service	vegetable	0.0078125
+service	vehicle	0.0078125
+service	woman	0.0
+
+skill	specie	0.0
+skill	species	0.0
+skill	sport	0.0234375
+skill	symptom	0.0
+skill	tree	0.0
+skill	vegetable	0.0078125
+skill	vehicle	0.0
+skill	woman	0.0
+
+specie	species	0.3359375
+specie	sport	0.0078125
+specie	symptom	0.0
+specie	tree	0.0078125
+specie	vegetable	0.0
+specie	vehicle	0.0
+specie	woman	0.0
+
+species	sport	0.0
+species	symptom	0.0
+species	tree	0.0
+species	vegetable	0.0
+species	vehicle	0.0
+species	woman	0.0
+
+sport	symptom	0.0
+sport	tree	0.0
+sport	vegetable	0.0078125
+sport	vehicle	0.0
+sport	woman	0.0
+
+symptom	tree	0.0
+symptom	vegetable	0.0078125
+symptom	vehicle	0.0
+symptom	woman	0.0
+
+tree	vegetable	0.0
+tree	vehicle	0.0
+tree	woman	0.0078125
+
+vegetable	vehicle	0.0078125
+vegetable	woman	0.0
+
+vehicle	woman	0.0
+
