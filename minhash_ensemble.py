@@ -45,9 +45,10 @@ def find_interaction(ans,fs,name1,name2,token1,token2,frq1,frq2) :
                 ans.flush()
 
 filter_list = [];
+ans_set = set()
 for line in open("filter.txt") :
     filter_list.append(line.split("\t")[0]);
-filter_list = filter_list[1:70000]
+filter_list = filter_list[1:30000]
 filter_set = set(filter_list)
 
 
@@ -58,12 +59,16 @@ frq = dict();
 
 hash_data = dict();
 lsh = MinHashLSH(threshold=0);
-lshmble = MinHashLSHEnsemble(threshold=0.9)
+lshmble = MinHashLSHEnsemble(threshold=0.1)
 lshmble_list = [];
 inac = open("minhashensemble_interaction.txt",'w')
 ansfile = open("ensemble_wrong_point.txt",'w')
 
+num = 0
 for name in filter_list :
+    if num % 1000 == 0 :
+        print num
+    num+=1
     m = MinHash();
     for d in token[name] :
         m.update(d);
@@ -71,10 +76,16 @@ for name in filter_list :
     hash_data[name] = m;
     lshmble_list.append((name,m,len(token[name])));
 
+
+print "ensemble stated"
 lshmble.index(lshmble_list);
 similar_dict = dict();
+num = 0
 for name in hash_data :
-    similar_list = lshmble.query(hash[name],len(token[name]));
+    if num % 1000 == 0 :
+        print num
+    num+=1
+    similar_list = lshmble.query(hash_data[name],len(token[name]));
     similar_dict[name] = set(similar_list);
 
 

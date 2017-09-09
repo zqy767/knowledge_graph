@@ -1,0 +1,389 @@
+toy	content information	1	small dog breed	1974
+name	content information	1	personal datum	1774
+address	content information	1	personal datum	1249
+smartphone	e reader device	1	mobile device	3700
+cotton	pigment	1	fabric	1046
+age	salient attribute	1	demographic factor	2541
+gold	therapeutic agent	1	noble metal	1116
+gold	therapeutic agent	1	preciou metal	2320
+directory	meta information	1	secondary source	1148
+mobile phone	complex invention	1	mobile device	1009
+birthday	compound word	1	occasion	2879
+christmas	seasonal requirement	1	occasion	1053
+name	word answer	1	personal datum	1774
+age	consideration different factor	1	demographic factor	2541
+tablet	dry preparation	1	mobile device	2895
+toy	special-purpose device	1	small dog breed	1974
+smart phone	payment method	1	mobile device	1894
+mobile phone	payment method	1	mobile device	1009
+router	carpentry tool	1	network device	1163
+gender	varible	1	demographic factor	1507
+age	varible	1	demographic factor	2541
+gender	patients demographic and clinical datum	1	demographic factor	1507
+silk	high-grade material	1	fabric	1076
+cotton	high-grade material	1	fabric	1046
+cotton	textile industry	1	fabric	1046
+tablet	expensive asset	1	mobile device	2895
+gender	in game option	1	demographic characteristic	1337
+gender	in game option	1	demographic factor	1507
+toy	shared item	1	small dog breed	1974
+cotton	moisture wicking material	1	fabric	1046
+lawyer	local advisor	1	professional	2857
+economic	master	1	discipline	1193
+accountant	master	1	professional	1868
+toy	raw material	1	small dog breed	1974
+age	raw material	1	demographic characteristic	2579
+age	raw material	1	demographic	1573
+hydrogen peroxide	raw material	1	reactive oxygen specie	1677
+age	raw material	1	demographic factor	2541
+cotton	shirt style	1	fabric	1046
+router	default product type	1	network device	1163
+christmas	fern specie	1	occasion	1053
+name	instructor information	1	personal datum	1774
+tablet	ict solution	1	mobile device	2895
+silk	polysaccharide	1	fabric	1076
+birthday	memorial	1	occasion	2879
+wedding	memorial	1	occasion	3480
+wheat	common trigger food	1	cereal	1349
+platinum	membership category	1	preciou metal	1172
+name	academic	1	personal datum	1774
+chemotherapy	academic	1	cancer treatment	1101
+sociology	academic	1	discipline	1636
+economic	academic	1	discipline	1193
+engineer	academic	1	professional	1186
+doctor	academic	1	professional	3334
+gender	vital factor	1	demographic characteristic	1337
+gender	vital factor	1	demographic factor	1507
+target	hidden cost	1	retailer	1285
+villa	premium offering	1	accommodation choice	1349
+wheat	hay	1	cereal	1349
+gender	node datum	1	demographic characteristic	1337
+age	node datum	1	demographic characteristic	2579
+age	node datum	1	demographic	1573
+gender	node datum	1	demographic factor	1507
+age	node datum	1	demographic factor	2541
+toy	precautionary measure	1	small dog breed	1974
+future	common contract	1	derivative	1164
+christmas	lot item	1	occasion	1053
+anniversary	high risk situation	1	occasion	1274
+toy	promotional material	1	small dog breed	1974
+silk	ordinary material	1	fabric	1076
+cotton	ordinary material	1	fabric	1046
+cotton	fabric	1046	pigment	1
+cotton	fabric	1046	textile industry	1
+cotton	fabric	1046	moisture wicking material	1
+cotton	fabric	1046	shirt style	1
+cotton	fabric	1046	friend	1
+silk	fabric	1076	polysaccharide	1
+silk	fabric	1076	ordinary material	1
+cotton	fabric	1046	ordinary material	1
+silk	fabric	1076	apron	1
+silk	fabric	1076	fascinating character	1
+cotton	fabric	1046	traffic	1
+cotton	fabric	1046	cream	1
+cotton	fabric	1046	polyploid crop	1
+cotton	fabric	1046	herbaceous specie	1
+silk	fabric	1076	exotic commodity	1
+cotton	fabric	1046	soft natural fiber	1
+silk	fabric	1076	soft natural fiber	1
+cotton	fabric	1046	storable commodity	1
+cotton	fabric	1046	vegetable material	1
+silk	fabric	1076	tape	1
+silk	fabric	1076	natural and traditional material	1
+cotton	fabric	1046	basic food stuff	1
+cotton	fabric	1046	cereal	1
+cotton	fabric	1046	damaging crop	1
+cotton	fabric	1046	input material	1
+silk	fabric	1076	tactile element	1
+cotton	fabric	1046	tropical or subtropical plant	1
+cotton	fabric	1046	edible seed	1
+cotton	fabric	1046	fairtrade product	1
+cotton	fabric	1046	woody-stemmed plant	1
+cotton	fabric	1046	agro-industrial by-products	1
+silk	fabric	1076	chinese innovation	1
+cotton	fabric	1046	salt-tolerant plant	1
+cotton	fabric	1046	plush material	1
+silk	fabric	1076	amazing fabric	1
+cotton	fabric	1046	biological material	1
+silk	fabric	1076	moisturizing ingredient	1
+cotton	fabric	1046	natural quality	1
+cotton	fabric	1046	filter material	1
+cotton	fabric	1046	non paper material	1
+cotton	fabric	1046	polymer material	1
+cotton	fabric	1046	africa s resource	1
+wedding	fabric	1	occasion	3480
+silk	fabric	1076	rare product	1
+cotton	fabric	1046	conventional product	1
+silk	fabric	1076	standard brand	1
+cotton	fabric	1046	refreshing scent	1
+cotton	fabric	1046	seasonal material	1
+cotton	fabric	1046	preferred material	1
+silk	fabric	1076	high fashion item	1
+cotton	fabric	1046	modern item	1
+cotton	fabric	1046	expensive goods	1
+cotton	fabric	1046	angiosperm specie	1
+cotton	fabric	1046	agriculturally important plant	1
+silk	fabric	1076	high value good	1
+silver	fabric	1	preciou metal	1448
+silk	fabric	1076	polyamide	1
+silk	fabric	1076	natural fiber product	1
+cotton	fabric	1046	natural fiber product	1
+cotton	fabric	1046	drought resistant crop	1
+silk	fabric	1076	good lubricant	1
+silk	fabric	1076	restriction	1
+cotton	fabric	1046	stable material	1
+cotton	fabric	1046	consumer commodity	1
+cotton	fabric	1046	local agricultural product	1
+cotton	fabric	1046	clean lint free cloth	1
+cotton	fabric	1046	non edible material	1
+silk	fabric	1076	non washable material	1
+cotton	fabric	1046	long duration crop	1
+cotton	fabric	1046	biomass feedstocks	1
+silk	fabric	1076	artsists	1
+silk	fabric	1076	unusual scent	1
+silk	fabric	1076	extracellular matrix component	1
+silk	fabric	1076	luscious fiber	1
+cotton	fabric	1046	tinder	1
+cotton	fabric	1046	physical commodity	1
+silk	fabric	1076	eastern import	1
+silk	fabric	1076	high-grade material	1
+cotton	fabric	1046	high-grade material	1
+cotton	fabric	1046	sensitive plant	1
+silk	fabric	1076	superior material	1
+silk	fabric	1076	ingenious invention	1
+cotton	fabric	1046	traditional agricultural export	1
+silk	fabric	1076	simple object	1
+silk	fabric	1076	textile dye	1
+cotton	fabric	1046	hygiene	1
+cotton	fabric	1046	waste product	1
+cotton	fabric	1046	non-oil sector	1
+silk	fabric	1076	specialty card	1
+silk	fabric	1076	natural and eco friendly material	1
+silk	fabric	1076	famous brand	1
+cotton	fabric	1046	salt-tolerant crop	1
+silk	fabric	1076	chinese import	1
+cotton	fabric	1046	tall plant	1
+cotton	fabric	1046	strategic sector	1
+cotton	fabric	1046	vintage recycled fabric	1
+silk	fabric	1076	vintage recycled fabric	1
+silk	fabric	1076	tie	1
+tablet	catholic publication	1	mobile device	2895
+router	basic factor	1	network device	1163
+tablet	lte device	1	mobile device	2895
+mobile phone	technological possibility	1	mobile device	1009
+toy	durable goods	1	small dog breed	1974
+wedding	sticky situation	1	occasion	3480
+age	sticky situation	1	demographic factor	2541
+target	popular outlet	1	retailer	1285
+wal mart	popular outlet	1	retailer	1317
+accountant	business reason	1	professional	1868
+gender	infl uential factor	1	demographic factor	1507
+age	infl uential factor	1	demographic factor	2541
+toy	party supply	1	small dog breed	1974
+wedding	community social program	1	occasion	3480
+target	national pharmacy chain	1	retailer	1285
+smartphone	information platform	1	mobile device	3700
+age	news agency	1	demographic factor	2541
+router	news agency	1	network device	1163
+silk	apron	1	fabric	1076
+gender	specialist topic	1	demographic characteristic	1337
+gender	specialist topic	1	demographic factor	1507
+lawyer	case service	1	professional	2857
+christmas	seasonal variation	1	occasion	1053
+aspirin	symbolic gift	1	nsaid	1116
+psychology	useless subject	1	discipline	1605
+toy	small dog breed	1974	special-purpose device	1
+toy	small dog breed	1974	shared item	1
+toy	small dog breed	1974	raw material	1
+toy	small dog breed	1974	practical item	1
+toy	small dog breed	1974	promotional material	1
+toy	small dog breed	1974	durable goods	1
+toy	small dog breed	1974	party supply	1
+toy	small dog breed	1974	training aid	1
+toy	small dog breed	1974	optional item	1
+toy	small dog breed	1974	basic item	1
+toy	small dog breed	1974	social custom	1
+toy	small dog breed	1974	cooperation	1
+toy	small dog breed	1974	interesting technique	1
+toy	small dog breed	1974	quiet activity	1
+toy	small dog breed	1974	valuable personal item	1
+toy	small dog breed	1974	nice extra touch	1
+toy	small dog breed	1974	environmental surface	1
+toy	small dog breed	1974	small wooden item	1
+toy	small dog breed	1974	embodiment	1
+toy	small dog breed	1974	diversional activity	1
+toy	small dog breed	1974	single item	1
+toy	small dog breed	1974	domestic item	1
+toy	small dog breed	1974	simple item	1
+toy	small dog breed	1974	free essential goods	1
+toy	small dog breed	1974	matching accessory	1
+toy	small dog breed	1974	scale item	1
+toy	small dog breed	1974	key category	1
+toy	small dog breed	1974	interesting object	1
+toy	small dog breed	1974	material gift	1
+toy	small dog breed	1974	local craft	1
+toy	small dog breed	1974	retailer	1
+toy	small dog breed	1974	material benefit	1
+toy	small dog breed	1974	dry good	1
+toy	small dog breed	1974	modern item	1
+toy	small dog breed	1974	gently-used item	1
+toy	small dog breed	1974	great christmas gift idea	1
+toy	small dog breed	1974	easy item	1
+toy	small dog breed	1974	relic	1
+toy	small dog breed	1974	high margin product	1
+toy	small dog breed	1974	utensil	1
+toy	small dog breed	1974	classic gift	1
+toy	small dog breed	1974	competitive area	1
+toy	small dog breed	1974	low tech product	1
+toy	small dog breed	1974	local store	1
+toy	small dog breed	1974	buy supply	1
+toy	small dog breed	1974	non-porous surface	1
+toy	small dog breed	1974	cheap raw material	1
+toy	small dog breed	1974	content information	1
+toy	small dog breed	1974	solid item	1
+toy	small dog breed	1974	typical expense	1
+toy	small dog breed	1974	souvenir item	1
+toy	small dog breed	1974	light object	1
+toy	small dog breed	1974	visitor	1
+toy	small dog breed	1974	wholesale market	1
+toy	small dog breed	1974	precautionary measure	1
+toy	small dog breed	1974	holiday item	1
+toy	small dog breed	1974	cultural item	1
+toy	small dog breed	1974	personal material	1
+toy	small dog breed	1974	mass produced item	1
+toy	small dog breed	1974	apparatuses	1
+toy	small dog breed	1974	common household object	1
+toy	small dog breed	1974	big item	1
+toy	small dog breed	1974	traditional player	1
+platinum	photocatalysts	1	preciou metal	1172
+silver	opposite	1	preciou metal	1448
+name	consideration criterion	1	personal datum	1774
+address	consideration criterion	1	personal datum	1249
+doctor	bodily fluid	1	professional	3334
+wal mart	large commercial company	1	retailer	1317
+mobile phone	allowance	1	mobile device	1009
+silk	fascinating character	1	fabric	1076
+wal mart	corporate credit card	1	retailer	1317
+name	personal datum	1774	word answer	1
+name	personal datum	1774	friend	1
+name	personal datum	1774	instructor information	1
+name	personal datum	1774	academic	1
+name	personal datum	1774	consideration criterion	1
+address	personal datum	1249	consideration criterion	1
+name	personal datum	1774	button property	1
+address	personal datum	1249	payment related information	1
+name	personal datum	1774	optional provision	1
+name	personal datum	1774	product info	1
+address	personal datum	1249	informative datum	1
+address	personal datum	1249	advanced feature	1
+name	personal datum	1774	key value	1
+address	personal datum	1249	formal information	1
+name	personal datum	1774	fixed datum	1
+address	personal datum	1249	datum entry error	1
+address	personal datum	1249	instrumental purpose	1
+address	personal datum	1249	unrelated entity	1
+name	personal datum	1774	basic essential	1
+name	personal datum	1774	tell-tale sign	1
+name	personal datum	1774	printed datum	1
+address	personal datum	1249	printed datum	1
+address	personal datum	1249	back up material	1
+address	personal datum	1249	implementation concept	1
+name	personal datum	1774	basic communication skill	1
+name	personal datum	1774	custom graphic	1
+address	personal datum	1249	manufacturer information	1
+name	personal datum	1774	visible symbol	1
+name	personal datum	1774	medium information	1
+name	personal datum	1774	route datum	1
+name	personal datum	1774	routine check	1
+name	personal datum	1774	linguistic term	1
+name	personal datum	1774	invisible item	1
+address	personal datum	1249	simple element	1
+address	personal datum	1249	word information	1
+address	personal datum	1249	participant datum	1
+address	personal datum	1249	enquires	1
+name	personal datum	1774	limited characteristic	1
+address	personal datum	1249	customer account datum	1
+name	personal datum	1774	process setting	1
+address	personal datum	1249	personal datum information	1
+name	personal datum	1774	proper information	1
+address	personal datum	1249	proper information	1
+address	personal datum	1249	extensive information	1
+address	personal datum	1249	follow up procedure	1
+address	personal datum	1249	nonpublic information	1
+name	personal datum	1774	best quality	1
+name	personal datum	1774	small defect	1
+address	personal datum	1249	accompanying datum	1
+name	personal datum	1774	design attribute	1
+name	personal datum	1774	japanese culture	1
+name	personal datum	1774	book information	1
+address	personal datum	1249	vocabulary	1
+name	personal datum	1774	registration change	1
+address	personal datum	1249	registration change	1
+name	personal datum	1774	linguistic entity	1
+name	personal datum	1774	vitals	1
+address	personal datum	1249	vitals	1
+name	personal datum	1774	call information	1
+name	personal datum	1774	email	1
+name	personal datum	1774	employee profile information	1
+address	personal datum	1249	employee profile information	1
+address	personal datum	1249	error value	1
+name	personal datum	1774	contextual material	1
+name	personal datum	1774	content information	1
+address	personal datum	1249	content information	1
+name	personal datum	1774	environment information	1
+address	personal datum	1249	recorder	1
+name	personal datum	1774	differentiating factor	1
+name	personal datum	1774	key property	1
+name	personal datum	1774	type keyword	1
+name	personal datum	1774	textual attribute	1
+address	personal datum	1249	textual attribute	1
+address	personal datum	1249	common task	1
+address	personal datum	1249	commercial information	1
+name	personal datum	1774	public domain information	1
+address	personal datum	1249	transaction	1
+name	personal datum	1774	international player	1
+name	personal datum	1774	product s attribute	1
+name	personal datum	1774	valid contact information	1
+name	personal datum	1774	birth information	1
+name	personal datum	1774	burial information	1
+name	personal datum	1774	layer property	1
+name	personal datum	1774	real world information	1
+address	personal datum	1249	real world information	1
+address	personal datum	1249	bus signal	1
+name	personal datum	1774	table property	1
+name	personal datum	1774	surface information	1
+name	personal datum	1774	optional service	1
+name	personal datum	1774	peripheral datum	1
+name	personal datum	1774	interface	1
+name	personal datum	1774	blueprint	1
+address	personal datum	1249	subobjects	1
+address	personal datum	1249	intelligence information	1
+name	personal datum	1774	intelligence information	1
+teacher	personal datum	1	professional	1272
+address	personal datum	1249	aspect of personal life	1
+name	personal datum	1774	decorative design	1
+mobile phone	remote channel	1	mobile device	1009
+birthday	normal information	1	occasion	2879
+wal mart	streaming service	1	retailer	1317
+gender	social hierarchy	1	demographic characteristic	1337
+gender	social hierarchy	1	demographic factor	1507
+gender	syntactic information	1	demographic characteristic	1337
+gender	syntactic information	1	demographic factor	1507
+chemotherapy	cancer treatment	1101	academic	1
+chemotherapy	cancer treatment	1101	serious disease	1
+chemotherapy	cancer treatment	1101	influence	1
+chemotherapy	cancer treatment	1101	non invasive treatment	1
+chemotherapy	cancer treatment	1101	keyword	1
+chemotherapy	cancer treatment	1101	chronic condition	1
+wheat	nutritive ingredient	1	cereal	1349
+target	advertisement	1	retailer	1285
+tablet	solid mass	1	mobile device	2895
+doctor	trade title	1	professional	3334
+wheat	inert ingredient	1	cereal	1349
+platinum	cool color	1	noble metal	1011
+option	common stock equivalent	1	derivative	1161
+cotton	traffic	1	fabric	1046
+wheat	traffic	1	cereal	1349
+pdas	high-tech option	1	mobile device	1027
+option	corporate action	1	derivative	1161
+name	button property	1	personal datum	1774

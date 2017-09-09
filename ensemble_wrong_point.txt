@@ -1,0 +1,349 @@
+toy	content information
+name	content information
+address	content information
+smartphone	e reader device
+cotton	pigment
+age	salient attribute
+gold	therapeutic agent
+directory	meta information
+mobile phone	complex invention
+birthday	compound word
+christmas	seasonal requirement
+name	word answer
+age	consideration different factor
+tablet	dry preparation
+toy	special-purpose device
+smart phone	payment method
+mobile phone	payment method
+router	carpentry tool
+gender	varible
+age	varible
+gender	patients demographic and clinical datum
+silk	high-grade material
+cotton	high-grade material
+cotton	textile industry
+tablet	expensive asset
+gender	in game option
+toy	shared item
+cotton	moisture wicking material
+lawyer	local advisor
+economic	master
+accountant	master
+toy	raw material
+age	raw material
+hydrogen peroxide	raw material
+cotton	shirt style
+router	default product type
+christmas	fern specie
+name	instructor information
+tablet	ict solution
+silk	polysaccharide
+birthday	memorial
+wedding	memorial
+wheat	common trigger food
+platinum	membership category
+name	academic
+chemotherapy	academic
+sociology	academic
+economic	academic
+engineer	academic
+doctor	academic
+gender	vital factor
+target	hidden cost
+villa	premium offering
+wheat	hay
+gender	node datum
+age	node datum
+toy	precautionary measure
+future	common contract
+christmas	lot item
+anniversary	high risk situation
+toy	promotional material
+silk	ordinary material
+cotton	ordinary material
+cotton	friend
+silk	apron
+silk	fascinating character
+cotton	traffic
+cotton	cream
+cotton	polyploid crop
+cotton	herbaceous specie
+silk	exotic commodity
+cotton	soft natural fiber
+silk	soft natural fiber
+cotton	storable commodity
+cotton	vegetable material
+silk	tape
+silk	natural and traditional material
+cotton	basic food stuff
+cotton	cereal
+cotton	damaging crop
+cotton	input material
+silk	tactile element
+cotton	tropical or subtropical plant
+cotton	edible seed
+cotton	fairtrade product
+cotton	woody-stemmed plant
+cotton	agro-industrial by-products
+silk	chinese innovation
+cotton	salt-tolerant plant
+cotton	plush material
+silk	amazing fabric
+cotton	biological material
+silk	moisturizing ingredient
+cotton	natural quality
+cotton	filter material
+cotton	non paper material
+cotton	polymer material
+cotton	africa s resource
+wedding	fabric
+silk	rare product
+cotton	conventional product
+silk	standard brand
+cotton	refreshing scent
+cotton	seasonal material
+cotton	preferred material
+silk	high fashion item
+cotton	modern item
+cotton	expensive goods
+cotton	angiosperm specie
+cotton	agriculturally important plant
+silk	high value good
+silver	fabric
+silk	polyamide
+silk	natural fiber product
+cotton	natural fiber product
+cotton	drought resistant crop
+silk	good lubricant
+silk	restriction
+cotton	stable material
+cotton	consumer commodity
+cotton	local agricultural product
+cotton	clean lint free cloth
+cotton	non edible material
+silk	non washable material
+cotton	long duration crop
+cotton	biomass feedstocks
+silk	artsists
+silk	unusual scent
+silk	extracellular matrix component
+silk	luscious fiber
+cotton	tinder
+cotton	physical commodity
+silk	eastern import
+cotton	sensitive plant
+silk	superior material
+silk	ingenious invention
+cotton	traditional agricultural export
+silk	simple object
+silk	textile dye
+cotton	hygiene
+cotton	waste product
+cotton	non-oil sector
+silk	specialty card
+silk	natural and eco friendly material
+silk	famous brand
+cotton	salt-tolerant crop
+silk	chinese import
+cotton	tall plant
+cotton	strategic sector
+cotton	vintage recycled fabric
+silk	vintage recycled fabric
+silk	tie
+tablet	catholic publication
+router	basic factor
+tablet	lte device
+mobile phone	technological possibility
+toy	durable goods
+wedding	sticky situation
+age	sticky situation
+target	popular outlet
+wal mart	popular outlet
+accountant	business reason
+gender	infl uential factor
+age	infl uential factor
+toy	party supply
+wedding	community social program
+target	national pharmacy chain
+smartphone	information platform
+age	news agency
+router	news agency
+gender	specialist topic
+lawyer	case service
+christmas	seasonal variation
+aspirin	symbolic gift
+psychology	useless subject
+toy	practical item
+toy	training aid
+toy	optional item
+toy	basic item
+toy	social custom
+toy	cooperation
+toy	interesting technique
+toy	quiet activity
+toy	valuable personal item
+toy	nice extra touch
+toy	environmental surface
+toy	small wooden item
+toy	embodiment
+toy	diversional activity
+toy	single item
+toy	domestic item
+toy	simple item
+toy	free essential goods
+toy	matching accessory
+toy	scale item
+toy	key category
+toy	interesting object
+toy	material gift
+toy	local craft
+toy	retailer
+toy	material benefit
+toy	dry good
+toy	modern item
+toy	gently-used item
+toy	great christmas gift idea
+toy	easy item
+toy	relic
+toy	high margin product
+toy	utensil
+toy	classic gift
+toy	competitive area
+toy	low tech product
+toy	local store
+toy	buy supply
+toy	non-porous surface
+toy	cheap raw material
+toy	solid item
+toy	typical expense
+toy	souvenir item
+toy	light object
+toy	visitor
+toy	wholesale market
+toy	holiday item
+toy	cultural item
+toy	personal material
+toy	mass produced item
+toy	apparatuses
+toy	common household object
+toy	big item
+toy	traditional player
+platinum	photocatalysts
+silver	opposite
+name	consideration criterion
+address	consideration criterion
+doctor	bodily fluid
+wal mart	large commercial company
+mobile phone	allowance
+wal mart	corporate credit card
+name	friend
+name	button property
+address	payment related information
+name	optional provision
+name	product info
+address	informative datum
+address	advanced feature
+name	key value
+address	formal information
+name	fixed datum
+address	datum entry error
+address	instrumental purpose
+address	unrelated entity
+name	basic essential
+name	tell-tale sign
+name	printed datum
+address	printed datum
+address	back up material
+address	implementation concept
+name	basic communication skill
+name	custom graphic
+address	manufacturer information
+name	visible symbol
+name	medium information
+name	route datum
+name	routine check
+name	linguistic term
+name	invisible item
+address	simple element
+address	word information
+address	participant datum
+address	enquires
+name	limited characteristic
+address	customer account datum
+name	process setting
+address	personal datum information
+name	proper information
+address	proper information
+address	extensive information
+address	follow up procedure
+address	nonpublic information
+name	best quality
+name	small defect
+address	accompanying datum
+name	design attribute
+name	japanese culture
+name	book information
+address	vocabulary
+name	registration change
+address	registration change
+name	linguistic entity
+name	vitals
+address	vitals
+name	call information
+name	email
+name	employee profile information
+address	employee profile information
+address	error value
+name	contextual material
+name	environment information
+address	recorder
+name	differentiating factor
+name	key property
+name	type keyword
+name	textual attribute
+address	textual attribute
+address	common task
+address	commercial information
+name	public domain information
+address	transaction
+name	international player
+name	product s attribute
+name	valid contact information
+name	birth information
+name	burial information
+name	layer property
+name	real world information
+address	real world information
+address	bus signal
+name	table property
+name	surface information
+name	optional service
+name	peripheral datum
+name	interface
+name	blueprint
+address	subobjects
+address	intelligence information
+name	intelligence information
+teacher	personal datum
+address	aspect of personal life
+name	decorative design
+mobile phone	remote channel
+birthday	normal information
+wal mart	streaming service
+gender	social hierarchy
+gender	syntactic information
+chemotherapy	serious disease
+chemotherapy	influence
+chemotherapy	non invasive treatment
+chemotherapy	keyword
+chemotherapy	chronic condition
+wheat	nutritive ingredient
+target	advertisement
+tablet	solid mass
+doctor	trade title
+wheat	inert ingredient
+platinum	cool color
+option	common stock equivalent
+wheat	traffic
+pdas	high-tech option
+option	corporate action
